@@ -103,9 +103,14 @@ def ejecutar_evaluacion():
     with open(INPUT_PATH, "r", encoding="utf-8") as f:
         articulos = json.load(f)
 
-    # Crear carpeta específica para este modelo dentro de results/
-    nombre_carpeta_modelo = MODEL_NAME.replace("/", "_")
-    carpeta_destino = os.path.join(RESULTS_DIR, nombre_carpeta_modelo)
+    # Si estamos procesando los 250 artículos, se guarda en su carpeta final dedicada
+    if "250" in INPUT_PATH:
+        carpeta_destino = os.path.join(RESULTS_DIR, "analisis_final_250")
+    else:
+        # Si es el benchmark de 15, se guarda en la carpeta del modelo correspondiente
+        nombre_carpeta_modelo = MODEL_NAME.replace("/", "_")
+        carpeta_destino = os.path.join(RESULTS_DIR, nombre_carpeta_modelo)
+
     os.makedirs(carpeta_destino, exist_ok=True)
 
     print(f"=== INICIANDO EXTRACCIÓN CON MODELO: {MODEL_NAME} ===")
