@@ -191,7 +191,7 @@ Las métricas frente al golden standard solo se calculan para los artículos pre
 
 | Recurso | Licencia |
 |---|---|
-| [projecte-aina/caBreu](https://huggingface.co/datasets/projecte-aina/caBreu) | _Verificar en la ficha del dataset en Hugging Face (puede restringir uso comercial y obras derivadas)_ |
+| [projecte-aina/caBreu](https://huggingface.co/datasets/projecte-aina/caBreu) | _CC BY-NC-ND 4.0_ |
 
 ### Dependencias de Python
 
@@ -206,8 +206,6 @@ Las métricas frente al golden standard solo se calculan para los artículos pre
 ### Infraestructura
 
 - **OVHcloud AI Endpoints:** inferencia de los modelos mediante API compatible con OpenAI.
-
-> Las licencias de los modelos y del dataset pueden cambiar. Comprueba siempre la ficha oficial antes de reutilizarlos.
 
 ---
 
@@ -239,11 +237,11 @@ Las métricas frente al golden standard solo se calculan para los artículos pre
 
 ## Equipo
 
-> Completar con los nombres del Equipo 7.
+ Sofia Mirza Chowdhury, Laura Lope Izquierdo, Sofia Boyko Boyko
 
 ## Licencia del proyecto
 
-> Indicar la licencia del código (por ejemplo, Apache 2.0 o MIT).
+ Este proyecto está distribuido bajo la licencia de código abierto **MIT**. Para más detalles, consulta el archivo [LICENSE](LICENSE).
 
 ## Agradecimientos
 
