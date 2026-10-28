@@ -1,0 +1,346 @@
+[
+  {
+    "id": 1318,
+    "titular": "El salt d'Iceta al Senat forçarà el PSC a triar un candidat a la Generalitat",
+    "prediccion": {
+      "total_personas_mencionadas": 9,
+      "mujeres_mencionadas": [
+        "Eva Granados",
+        "Núria Parlon"
+      ],
+      "hombres_mencionados": [
+        "Miquel Iceta",
+        "Pedro Sánchez",
+        "Pere Navarro",
+        "Jaume Collboni",
+        "Salvador Illa",
+        "Quim Torra"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Eva Granados",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Núria Parlon",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": 2470,
+    "titular": "L'Eurocambra instarà dijous els estats a prohibir les fundacions que \"glorifiquen\" el feixisme",
+    "prediccion": {
+      "total_personas_mencionadas": 7,
+      "mujeres_mencionadas": [
+        "Eleonora Forenza",
+        "Ana Miranda",
+        "Soraya Post",
+        "Cecilia Wikström"
+      ],
+      "hombres_mencionados": [
+        "Antonio Perillo",
+        "Róża Thun"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Eleonora Forenza",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Ana Miranda",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Soraya Post",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Cecilia Wikström",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": 1379,
+    "titular": "Així s'aplica l'article 155",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Carles Puigdemont",
+        "Rajoy"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": 2804,
+    "titular": "Els Agents Rurals intercepten 1.200 ocells en una furgoneta per als concursos il·legals de cant",
+    "prediccion": {
+      "total_personas_mencionadas": 0,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": 160,
+    "titular": "El 45% de les empreses catalanes incrementarà la facturació enguany gràcies a la innovació",
+    "prediccion": {
+      "total_personas_mencionadas": 2,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Joan Romero",
+        "Antoni Fita"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": 2905,
+    "titular": "El Parlament Europeu ratifica el Tractat de París contra el canvi climàtic",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [
+        "Ségolène Royal"
+      ],
+      "hombres_mencionados": [
+        "Jean-Claude Juncker",
+        "Ban Ki-moon",
+        "Martin Schulz",
+        "Miguel Arias Cañete"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Ségolène Royal",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "titular": "La Passió d’Olesa i Esparreguera pugen a l’escenari amb versions reduïdes i adaptades a la pandèmia",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [
+        "Fàtima Tobar"
+      ],
+      "hombres_mencionados": [
+        "Ignasi Campmany",
+        "Joan Gil"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Fàtima Tobar",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1953,
+    "titular": "Els presos recuperen la llibertat: què passa ara amb els exiliats?",
+    "prediccion": {
+      "total_personas_mencionadas": 11,
+      "mujeres_mencionadas": [
+        "Clara Ponsatí",
+        "Meritxell Serret"
+      ],
+      "hombres_mencionados": [
+        "Carles Puigdemont",
+        "Toni Comín",
+        "Jordi Cuixart",
+        "Gonzalo Boye",
+        "Pablo Llarena",
+        "Lluís Puig",
+        "Josep Costa",
+        "Jordi Turull"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Clara Ponsatí",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Meritxell Serret",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": 624,
+    "titular": "Barons del PSOE i diverses comunitats critiquen el pla de desconfinament del govern espanyol",
+    "prediccion": {
+      "total_personas_mencionadas": 15,
+      "mujeres_mencionadas": [
+        "Carolina Darias",
+        "Ana Barceló",
+        "Isabel Díaz Ayuso"
+      ],
+      "hombres_mencionados": [
+        "Pedro Sánchez",
+        "Javier Lambán",
+        "Guillermo Fernández Vara",
+        "Fernando López Miras",
+        "Alfonso Fernández Mañueco",
+        "Alfonso Rueda",
+        "Jesús Aguirre",
+        "Miguel Ángel Revilla",
+        "Josu Iñaki Erkoreka"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Carolina Darias",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Ana Barceló",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Isabel Díaz Ayuso",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2854,
+    "titular": "Les pimes gironines són menys productives que les de la resta de Catalunya i arriben a facturar un 17% menys",
+    "prediccion": {
+      "total_personas_mencionadas": 2,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Modest Guinjoan",
+        "Pere Cornellà"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "269",
+    "titular": "Castelló ja pot consultar el pla especial de protecció del convent dels Carmelos",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Rafa Simó",
+        "Francesc Mezquita",
+        "Juan de la Cierva"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2857",
+    "titular": "La policia espanyola intervé unes 15.000 plantes de marihuana enguany a la demarcació de Tarragona",
+    "prediccion": {
+      "total_personas_mencionadas": 2,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Carlos Yubero",
+        "Joan Sabaté"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "884",
+    "titular": "El parlament reprova l’ex-president Pujol pels diners a Andorra",
+    "prediccion": {
+      "total_personas_mencionadas": 8,
+      "mujeres_mencionadas": [
+        "Alícia Sánchez-Camacho"
+      ],
+      "hombres_mencionados": [
+        "Jordi Pujol",
+        "Artur Mas",
+        "Jorge Fernández Díaz",
+        "Manuel Bustos",
+        "Oriol Pujol"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Alícia Sánchez-Camacho",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1935",
+    "titular": "Torra reclama un «diàleg sincer» a l'Estat després de la petició de reunió de Sánchez",
+    "prediccion": {
+      "total_personas_mencionadas": 9,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Jordi Cuixart",
+        "Torra",
+        "Roger Torrent",
+        "Marcel Mauri",
+        "Jordi Cabré",
+        "Cares Rebassa",
+        "Sánchez",
+        "Forcadell",
+        "Casals"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2993",
+    "titular": "La fiscalia carrega contra les defenses per presentar els acusats com a \"víctimes de persecució política\"",
+    "prediccion": {
+      "total_personas_mencionadas": 5,
+      "mujeres_mencionadas": [
+        "Ana Pastor"
+      ],
+      "hombres_mencionados": [
+        "Javier Zaragoza",
+        "Puigdemont",
+        "Ibarretxe"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Ana Pastor",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  }
+]
