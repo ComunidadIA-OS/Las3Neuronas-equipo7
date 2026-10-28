@@ -1,0 +1,11 @@
+{
+  "modelo": "Meta-Llama-3_3-70B-Instruct",
+  "articulos_evaluados": 10,
+  "precision_mujeres": 1.0,
+  "recall_mujeres": 0.9286,
+  "f1_mujeres": 0.963,
+  "exactitud_titular_apertura": 1.0,
+  "verdaderos_positivos": 13,
+  "falsos_positivos": 0,
+  "falsos_negativos": 1
+}

@@ -1,0 +1,2 @@
+modelo,articulos_evaluados,precision_mujeres,recall_mujeres,f1_mujeres,exactitud_titular_apertura,verdaderos_positivos,falsos_positivos,falsos_negativos
+Meta-Llama-3_3-70B-Instruct,10,1.0,0.9286,0.963,1.0,13,0,1
