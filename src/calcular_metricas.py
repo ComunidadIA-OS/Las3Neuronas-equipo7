@@ -16,27 +16,36 @@ RESULTS_DIR = os.getenv("RESULTS_DIR", "results")
 def normalizar_texto(texto: str) -> str:
     """
     Limpia cadenas para comparar sin penalizar errores humanos:
-    - Pasa a minúsculas.
-    - Quita espacios iniciales y finales.
-    - Reemplaza dobles espacios internos o tabuladores por un único espacio.
-    - Elimina tildes y diacríticos (ej: 'Núria' -> 'nuria').
+    - Minúsculas, sin espacios en los extremos.
+    - Espacios/tabuladores múltiples -> un único espacio.
+    - Elimina tildes y diacríticos ('Núria' -> 'nuria').
     """
     if not isinstance(texto, str):
         return ""
-    
-    # Minúsculas y quitar espacios en extremos
+
     texto = texto.strip().lower()
-    
-    # Sustituir dos o más espacios consecutivos por uno solo
     texto = re.sub(r"\s+", " ", texto)
-    
-    # Eliminar acentos y diacríticos
     texto = "".join(
         c for c in unicodedata.normalize("NFD", texto)
         if unicodedata.category(c) != "Mn"
     )
-    
     return texto
+
+
+def a_bool(valor) -> bool:
+    """Convierte a booleano valores típicos devueltos por un LLM ('true', 'sí', 1...)."""
+    if isinstance(valor, bool):
+        return valor
+    if isinstance(valor, (int, float)):
+        return bool(valor)
+    if isinstance(valor, str):
+        return normalizar_texto(valor) in {"true", "verdadero", "si", "yes", "1", "cierto"}
+    return False
+
+
+def a_lista(valor) -> list:
+    """Garantiza que lo recibido es una lista (si no, lista vacía)."""
+    return valor if isinstance(valor, list) else []
 
 
 def calcular_metricas_presencia(lista_predicha, lista_real):
@@ -48,7 +57,7 @@ def calcular_metricas_presencia(lista_predicha, lista_real):
     pred_set.discard("")
     real_set.discard("")
 
-    tp = len(pred_set.intersection(real_set))
+    tp = len(pred_set & real_set)
     fp = len(pred_set - real_set)
     fn = len(real_set - pred_set)
 
@@ -63,7 +72,7 @@ def ejecutar_calculo():
     if not MODEL_NAME:
         raise ValueError("La variable MODEL_NAME no está configurada en el archivo .env.")
 
-    nombre_carpeta_modelo = MODEL_NAME.replace("/", "_")
+    nombre_carpeta_modelo = MODEL_NAME.replace("/", "_").replace(":", "_")
     carpeta_modelo = os.path.join(RESULTS_DIR, nombre_carpeta_modelo)
     ruta_predicciones = os.path.join(carpeta_modelo, "predicciones.json")
 
@@ -71,7 +80,10 @@ def ejecutar_calculo():
     if not os.path.exists(GOLDEN_PATH):
         raise FileNotFoundError(f"No se encuentra el Golden Standard en: {GOLDEN_PATH}")
     if not os.path.exists(ruta_predicciones):
-        raise FileNotFoundError(f"No se encuentran las predicciones en: {ruta_predicciones}. Ejecuta primero evaluacion_modelos.py")
+        raise FileNotFoundError(
+            f"No se encuentran las predicciones en: {ruta_predicciones}. "
+            "Ejecuta primero evaluacion_modelos.py"
+        )
 
     with open(GOLDEN_PATH, "r", encoding="utf-8") as f:
         golden_data = json.load(f)
@@ -80,31 +92,35 @@ def ejecutar_calculo():
         pred_data = json.load(f)
 
     # Mapear predicciones por ID de artículo
-     pred_dict = {
-    str(item["id"]): item.get("prediccio", item.get("prediccion", {}))
-    for item in pred_data
-}
+    pred_dict = {}
+    for item in pred_data:
+        if "id" not in item:
+            continue
+        pred_dict[str(item["id"])] = item.get("prediccio", item.get("prediccion", {}))
 
     total_tp = 0
     total_fp = 0
     total_fn = 0
     coincidencias_titular = 0
     total_articulos_evaluados = 0
+    ids_omitidos = []
 
     detalles_articulos = []
 
     for item in golden_data:
         art_id = str(item.get("id"))
         if art_id not in pred_dict:
-             print(f"  [AVISO] Artículo {art_id} del golden standard sin predicción: se omite.")
+            ids_omitidos.append(art_id)
             continue
 
         total_articulos_evaluados += 1
         anotacion_real = item.get("anotacion_humana", {})
         pred = pred_dict[art_id]
+        if not isinstance(pred, dict):
+            pred = {}
 
-        mujeres_reales = anotacion_real.get("mujeres_mencionadas", [])
-        mujeres_pred = pred.get("mujeres_mencionadas", [])
+        mujeres_reales = a_lista(anotacion_real.get("mujeres_mencionadas", []))
+        mujeres_pred = a_lista(pred.get("mujeres_mencionadas", []))
 
         # 1. Comparar entidades nombradas (presencia de mujeres)
         tp, fp, fn, prec, rec, f1 = calcular_metricas_presencia(mujeres_pred, mujeres_reales)
@@ -113,8 +129,8 @@ def ejecutar_calculo():
         total_fn += fn
 
         # 2. Comparar presencia en titular o apertura
-        titular_real = anotacion_real.get("mujer_en_titular_o_apertura", False)
-        titular_pred = pred.get("mujer_en_titular_o_apertura", False)
+        titular_real = a_bool(anotacion_real.get("mujer_en_titular_o_apertura", False))
+        titular_pred = a_bool(pred.get("mujer_en_titular_o_apertura", False))
         acierto_titular = (titular_real == titular_pred)
         if acierto_titular:
             coincidencias_titular += 1
@@ -130,15 +146,29 @@ def ejecutar_calculo():
             "acierto_titular": acierto_titular
         })
 
+    # Aviso de artículos sin predicción
+    if ids_omitidos:
+        print(f"\n[ATENCIÓN] {len(ids_omitidos)} de {len(golden_data)} artículos "
+              f"del golden standard no tienen predicción y se han omitido.")
+        print(f"  Primeros IDs omitidos: {ids_omitidos[:10]}")
+
     # Métricas agregadas globales
     precision_global = total_tp / (total_tp + total_fp) if (total_tp + total_fp) > 0 else 0.0
     recall_global = total_tp / (total_tp + total_fn) if (total_tp + total_fn) > 0 else 0.0
-    f1_global = (2 * precision_global * recall_global) / (precision_global + recall_global) if (precision_global + recall_global) > 0 else 0.0
-    exactitud_titular = (coincidencias_titular / total_articulos_evaluados) if total_articulos_evaluados > 0 else 0.0
+    f1_global = (
+        (2 * precision_global * recall_global) / (precision_global + recall_global)
+        if (precision_global + recall_global) > 0 else 0.0
+    )
+    exactitud_titular = (
+        coincidencias_titular / total_articulos_evaluados
+        if total_articulos_evaluados > 0 else 0.0
+    )
 
     resumen_modelo = {
         "modelo": MODEL_NAME,
+        "articulos_golden": len(golden_data),
         "articulos_evaluados": total_articulos_evaluados,
+        "articulos_omitidos": len(ids_omitidos),
         "precision_mujeres": round(precision_global, 4),
         "recall_mujeres": round(recall_global, 4),
         "f1_mujeres": round(f1_global, 4),
@@ -162,7 +192,6 @@ def ejecutar_calculo():
     ruta_comparativa_csv = os.path.join(RESULTS_DIR, "comparativa_modelos.csv")
     if os.path.exists(ruta_comparativa_csv):
         df_comp = pd.read_csv(ruta_comparativa_csv)
-        # Si el modelo ya estaba registrado, sustituye su fila por los datos nuevos
         df_comp = df_comp[df_comp["modelo"] != MODEL_NAME]
         df_nuevo = pd.DataFrame([resumen_modelo])
         df_comp = pd.concat([df_comp, df_nuevo], ignore_index=True)
@@ -175,7 +204,9 @@ def ejecutar_calculo():
     print("\n" + "=" * 55)
     print(f" RESULTADOS DEL BENCHMARK: {MODEL_NAME}")
     print("=" * 55)
+    print(f" Artículos en golden:        {len(golden_data)}")
     print(f" Artículos evaluados:        {total_articulos_evaluados}")
+    print(f" Artículos omitidos:         {len(ids_omitidos)}")
     print(f" Aciertos (TP):              {total_tp}")
     print(f" Falsas alarmas (FP):        {total_fp}")
     print(f" Omitidas / No vistas (FN):  {total_fn}")
