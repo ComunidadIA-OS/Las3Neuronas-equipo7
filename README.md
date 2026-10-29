@@ -173,7 +173,23 @@ Las métricas frente al golden standard solo se calculan para los artículos pre
 | gpt-oss-120b | 1.00 | 1.00 | 1.00 | 1.00 |
 | Qwen3.8-27B | 1.00 | 1.00 | 1.00 | 1.00 |
 
-**Modelo seleccionado:** _por decidir_
+### Gráfica comparativa de modelos
+
+![Comparativa de modelos abiertos frente al golden standard](results/benchmark_global_modelos.png)
+
+La gráfica compara los cinco modelos frente al golden standard anotado manualmente. Cada grupo de barras es un modelo y cada barra una métrica, con una puntuación entre 0 y 1 (cuanto más alta, mejor):
+
+- **Precisión (azul):** de las mujeres que detecta el modelo, cuántas son realmente mujeres mencionadas en el texto. Una precisión baja significa que el modelo se inventa o confunde personas (falsos positivos).
+- **Recall (verde azulado):** de las mujeres que aparecen en el texto, cuántas detecta el modelo. Un recall bajo significa que se le escapan mujeres (falsos negativos).
+- **F1-Score (verde claro):** media armónica de precisión y recall. Resume el equilibrio entre ambas en un solo número.
+
+**Cómo leerla**
+
+- Todos los modelos alcanzan una precisión de 1.00: no detectan como mujer a nadie que no lo sea.
+- Las diferencias están en el recall. Qwen2.5-VL-72B-Instruct (0.86) y Meta-Llama-3.3-70B-Instruct (0.93) omiten algunas mujeres, lo que baja su F1 (0.92 y 0.96).
+- Mistral-Small-3.2-24B-Instruct-2506, gpt-oss-120b y Qwen3.8-27B puntúan 1.00 en las tres métricas, y no se pueden distinguir con este benchmark.
+
+> **Nota:** la muestra del golden standard es pequeña, así que un 1.00 no implica que el modelo sea perfecto, sino que no falló en estos artículos.
 
 
 ---
