@@ -60,17 +60,47 @@ reto-ia-mujeres-equipo7/
 ├── README.md
 └── requirements.txt
 ```
+```
+reto-ia-mujeres-equipo7/
+├── data/
+│   ├── dataset_15.json              # Subconjunto de 15 artículos para el benchmark
+│   ├── dataset_250_articulos.json   # Muestra completa de 250 artículos de caBreu
+│   └── golden_standard.json         # Anotación manual de referencia (15 artículos)
+├── results/
+│   ├── benchmark_global_modelos.png # Gráfica comparativa global del benchmark
+│   ├── comparativa_modelos.csv      # Métricas consolidadas de todos los modelos
+│   ├── analisis_final_250/          # Resultados del modelo final sobre los 250 artículos
+│   │   ├── predicciones.json
+│   │   ├── presencia_genero.png
+│   │   └── roles_mujeres.png
+│   └── <nombre_del_modelo>/         # Carpeta individual por cada modelo evaluado
+│       ├── metricas.json            # Precisión, recall, F1 y exactitud frente al golden
+│       ├── predicciones.csv         # Predicciones tabuladas para inspección
+│       ├── predicciones.json        # Salidas crudas del LLM en formato JSON
+│       ├── presencia_genero.png     # Gráfica de distribución por género
+│       └── roles_mujeres.png        # Gráfica de roles y citas directas
+├── src/
+│   ├── evaluacion_modelos.py        # Inferencia con LLMs vía OVHcloud AI Endpoints
+│   ├── calcular_metricas.py         # Cálculo de métricas frente al golden standard
+│   └── visualizacion.py             # Generación automatizada de figuras y gráficas
+├── .env.example                     # Plantilla con las variables de entorno necesarias
+├── .gitignore                       # Archivos y carpetas excluidos del control de versiones
+├── LICENSE                          # Licencia de código abierto MIT
+├── main.py                          # Pipeline orquestador (ejecuta inferencia, métricas y gráficas)
+├── README.md                        # Documentación técnica completa del proyecto
+└── requirements.txt                 # Dependencias y versiones fijadas del proyecto
+```
 
 ---
 
 ## 2. Instrucciones de instalación
 
-**Requisitos previos:** Python 3.10 o superior, Git y una clave de API de OVHcloud AI Endpoints.
+**Requisitos previos:** Python 3.11 o superior, Git y una clave de API de OVHcloud AI Endpoints.
 
 **Paso 1. Clonar el repositorio**
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone <https://github.com/Sofia130505/reto-ia-mujeres-equipo7.git>
 cd reto-ia-mujeres-equipo7
 ```
 
@@ -150,14 +180,14 @@ python -m src.visualizacion        # Gráficas: genera los .png
 Cambia `MODEL_NAME` en el `.env` y vuelve a ejecutar `python main.py`. Cada modelo guarda sus resultados en su carpeta, y `results/comparativa_modelos.csv` se actualiza con una fila por modelo.
 
 ```bash
-MODEL_NAME= "Meta-Llama-3_3-70B-Instruct python main.py"
-MODEL_NAME= "gpt-oss-120b python main.py"
+MODEL_NAME="Meta-Llama-3_3-70B-Instruct" python main.py
+MODEL_NAME="gpt-oss-120b" python main.py
 ```
 
 ### Analizar el dataset completo (250 artículos)
 
 ```bash
-INPUT_DATA_PATH=data/dataset_250.json MODEL_NAME=<modelo_elegido> python main.py
+INPUT_DATA_PATH=data/dataset_250_articulos.json MODEL_NAME=<modelo_elegido> python main.py
 ```
 
 Las métricas frente al golden standard solo se calculan para los artículos presentes en ambos ficheros.
@@ -204,17 +234,17 @@ Elegimos Mistral-Small por:
 
 > **Limitación:** el golden standard tiene solo 15 artículos y 18 mujeres, por lo que una diferencia de una mujer cambia el ranking. Las diferencias entre los dos primeros modelos son pequeñas y deben interpretarse con cautela. Además, la exactitud de titular/apertura no distingue entre modelos, porque en el golden standard ningún artículo tiene mujer en el titular o la apertura.
 
-## Análisis del dataset de 250 artículos
+### Análisis del dataset de 250 artículos
 
 Una vez elegido Mistral-Small-3.2-24B-Instruct-2506, lo hemos aplicado a los 250 artículos de la muestra de caBreu. Los resultados están en `results/analisis_final_250/`.
 
-### Presencia por género
+#### Presencia por género
 
 ![Presencia total por género](results/analisis_final_250/presencia_genero.png)
 
 El modelo identifica **1.351 menciones de personas individuales**: **310 mujeres (23,0 %)** y **1.041 hombres (77,0 %)**. Por cada mujer mencionada aparecen unos 3,4 hombres.
 
-### Protagonismo de las mujeres: roles y voz propia
+#### Protagonismo de las mujeres: roles y voz propia
 
 ![Roles de las mujeres y citas directas](results/analisis_final_250/roles_mujeres.png)
 
@@ -228,7 +258,7 @@ El modelo identifica **1.351 menciones de personas individuales**: **310 mujeres
 
 **Voz propia:** solo el **37,4 %** de las mujeres tiene una cita directa en el texto; el **62,6 %** aparece mencionada sin que se recoja una declaración suya.
 
-### Conclusiones
+#### Conclusiones
 
 - Las mujeres representan menos de una cuarta parte de las personas mencionadas en los artículos.
 - Cuando aparecen, lo hacen casi a partes iguales como líderes o expertas (43,9 %) y en roles secundarios (45,2 %). Solo un 11,0 % aparece como acompañante o víctima.
@@ -248,7 +278,7 @@ El modelo identifica **1.351 menciones de personas individuales**: **310 mujeres
 | Meta-Llama-3_3-70B-Instruct | Llama 3.3 Community License |
 | Mistral-Small-3.2-24B-Instruct-2506 | Apache 2.0 |
 | gpt-oss-120b | Apache 2.0 |
-| Qwen3.8-27B | _Verificar en la ficha del modelo_ |
+| Qwen3.8-27B | Apache 2.0 |
 
 ### Dataset
 
@@ -278,7 +308,7 @@ El modelo identifica **1.351 menciones de personas individuales**: **310 mujeres
 - [x] Pipeline completo: extracción con LLM, cálculo de métricas y visualización.
 - [x] Comparación de 5 modelos abiertos frente al golden standard.
 
-**Fase 2: Análisis a escala (en curso)**
+**Fase 2: Análisis a escala (completada)**
 - [x] Seleccionar el mejor modelo según el benchmark.
 - [x] Procesar los 250 artículos con el modelo seleccionado.
 - [x] Obtener los indicadores globales de presencia y protagonismo femenino.
@@ -288,6 +318,7 @@ El modelo identifica **1.351 menciones de personas individuales**: **310 mujeres
 - [ ] **Más modelos:** ampliar el benchmark con otros modelos abiertos disponibles.
 - [ ] **Modelos grandes frente a pequeños:** comparar modelos con muchos parámetros (70B-120B) con otros mucho más pequeños, para ver cuánta calidad se pierde y cuánto se ahorra en coste y consumo.
 - [ ] **Golden standard más grande y más difícil:** pasar de 15 a más artículos anotados a mano, incluyendo textos ambiguos (nombres que no indican género claro, referencias por cargo, nombres incompletos, etc.) para que el benchmark distinga mejor entre modelos.
+- [ ] **Más métricas y parámetros de evaluación:** incluir otras métricas además de precisión, recall y F1 (por ejemplo, evaluar los roles y las citas directas, y medir tiempo de respuesta, coste y consumo por modelo) y probar distintos parámetros de los modelos y del prompt.
 ---
 
 ## Equipo
