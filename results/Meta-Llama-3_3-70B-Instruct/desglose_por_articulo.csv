@@ -9,3 +9,8 @@ id,tp,fp,fn,precision_nombres,recall_nombres,f1_nombres,acierto_titular
 1953,2,0,0,1.0,1.0,1.0,True
 624,3,0,0,1.0,1.0,1.0,True
 2854,0,0,0,0.0,0.0,0.0,True
+269,0,0,0,0.0,0.0,0.0,True
+2857,0,0,0,0.0,0.0,0.0,True
+884,1,0,0,1.0,1.0,1.0,True
+1935,0,0,2,0.0,0.0,0.0,True
+2993,1,0,0,1.0,1.0,1.0,True

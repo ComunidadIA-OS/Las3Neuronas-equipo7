@@ -44,6 +44,7 @@
       ],
       "hombres_mencionados": [
         "Antonio Perillo",
+        "Francisco Franco",
         "Róża Thun"
       ],
       "mujer_en_titular_o_apertura": false,
@@ -194,7 +195,7 @@
     "id": 624,
     "titular": "Barons del PSOE i diverses comunitats critiquen el pla de desconfinament del govern espanyol",
     "prediccion": {
-      "total_personas_mencionadas": 15,
+      "total_personas_mencionadas": 14,
       "mujeres_mencionadas": [
         "Carolina Darias",
         "Ana Barceló",
@@ -246,7 +247,7 @@
     }
   },
   {
-    "id": "269",
+    "id": 269,
     "titular": "Castelló ja pot consultar el pla especial de protecció del convent dels Carmelos",
     "prediccion": {
       "total_personas_mencionadas": 3,
@@ -261,10 +262,10 @@
     }
   },
   {
-    "id": "2857",
+    "id": 2857,
     "titular": "La policia espanyola intervé unes 15.000 plantes de marihuana enguany a la demarcació de Tarragona",
     "prediccion": {
-      "total_personas_mencionadas": 2,
+      "total_personas_mencionadas": 3,
       "mujeres_mencionadas": [],
       "hombres_mencionados": [
         "Carlos Yubero",
@@ -275,10 +276,10 @@
     }
   },
   {
-    "id": "884",
+    "id": 884,
     "titular": "El parlament reprova l’ex-president Pujol pels diners a Andorra",
     "prediccion": {
-      "total_personas_mencionadas": 8,
+      "total_personas_mencionadas": 7,
       "mujeres_mencionadas": [
         "Alícia Sánchez-Camacho"
       ],
@@ -293,26 +294,26 @@
       "roles_mujeres": [
         {
           "nombre": "Alícia Sánchez-Camacho",
-          "tipo_rol": "lider_o_experta",
+          "tipo_rol": "secundario",
           "tiene_cita_directa": false
         }
       ]
     }
   },
   {
-    "id": "1935",
+    "id": 1935,
     "titular": "Torra reclama un «diàleg sincer» a l'Estat després de la petició de reunió de Sánchez",
     "prediccion": {
       "total_personas_mencionadas": 9,
       "mujeres_mencionadas": [],
       "hombres_mencionados": [
-        "Jordi Cuixart",
         "Torra",
+        "Jordi Cuixart",
+        "Sánchez",
         "Roger Torrent",
         "Marcel Mauri",
         "Jordi Cabré",
         "Cares Rebassa",
-        "Sánchez",
         "Forcadell",
         "Casals"
       ],
@@ -321,17 +322,18 @@
     }
   },
   {
-    "id": "2993",
+    "id": 2993,
     "titular": "La fiscalia carrega contra les defenses per presentar els acusats com a \"víctimes de persecució política\"",
     "prediccion": {
-      "total_personas_mencionadas": 5,
+      "total_personas_mencionadas": 6,
       "mujeres_mencionadas": [
         "Ana Pastor"
       ],
       "hombres_mencionados": [
         "Javier Zaragoza",
         "Puigdemont",
-        "Ibarretxe"
+        "Ibarretxe",
+        "Cuixart"
       ],
       "mujer_en_titular_o_apertura": false,
       "roles_mujeres": [
