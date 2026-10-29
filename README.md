@@ -38,31 +38,6 @@ Para cada artículo, el programa extrae:
 ```
 reto-ia-mujeres-equipo7/
 ├── data/
-│   ├── dataset_15.json
-│   ├── dataset_250_articulos.json
-│   └── golden_standard.json
-├── results/
-│   ├── analisis_final_250/
-│   ├── gpt-oss-120b/
-│   ├── Meta-Llama-3_3-70B-Instruct/
-│   ├── Mistral-Small-3.2-24B-Instruct-2506/
-│   ├── Qwen2.5-VL-72B-Instruct/
-│   ├── Qwen3.8-27B/
-│   ├── benchmark_global_modelos.png
-│   └── comparativa_modelos.csv
-├── src/
-│   ├── calcular_metricas.py
-│   ├── evaluacion_modelos.py
-│   └── visualizacion.py
-├── .gitignore
-├── LICENSE
-├── main.py
-├── README.md
-└── requirements.txt
-```
-```
-reto-ia-mujeres-equipo7/
-├── data/
 │   ├── dataset_15.json              # Subconjunto de 15 artículos para el benchmark
 │   ├── dataset_250_articulos.json   # Muestra completa de 250 artículos de caBreu
 │   └── golden_standard.json         # Anotación manual de referencia (15 artículos)
