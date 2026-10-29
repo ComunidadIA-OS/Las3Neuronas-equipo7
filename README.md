@@ -42,6 +42,7 @@ reto-ia-mujeres-equipo7/
 │   ├── dataset_250_articulos.json
 │   └── golden_standard.json
 ├── results/
+│   ├── analisis_final_250/
 │   ├── gpt-oss-120b/
 │   ├── Meta-Llama-3_3-70B-Instruct/
 │   ├── Mistral-Small-3.2-24B-Instruct-2506/
@@ -96,7 +97,7 @@ Crea un archivo `.env` en la raíz del proyecto:
 ```env
 OVH_API_KEY= "tu_token_de_ovhcloud"
 OVH_API_BASE= "https://oai.endpoints.kepler.ai.cloud.ovh.net/v1"
-MODEL_NAME= "nombre_del modelo"
+MODEL_NAME= "nombre_del_modelo"
 INPUT_DATA_PATH= "data/dataset_elegido.json"
 GOLDEN_STANDARD_PATH= "data/golden_standard.json"
 RESULTS_DIR= "results"
@@ -202,6 +203,39 @@ Elegimos Mistral-Small por:
 - **Origen europeo:** modelo europeo servido desde infraestructura europea (OVHcloud).
 
 > **Limitación:** el golden standard tiene solo 15 artículos y 18 mujeres, por lo que una diferencia de una mujer cambia el ranking. Las diferencias entre los dos primeros modelos son pequeñas y deben interpretarse con cautela. Además, la exactitud de titular/apertura no distingue entre modelos, porque en el golden standard ningún artículo tiene mujer en el titular o la apertura.
+
+## Análisis del dataset de 250 artículos
+
+Una vez elegido Mistral-Small-3.2-24B-Instruct-2506, lo hemos aplicado a los 250 artículos de la muestra de caBreu. Los resultados están en `results/analisis_final_250/`.
+
+### Presencia por género
+
+![Presencia total por género](results/analisis_final_250/presencia_genero.png)
+
+El modelo identifica **1.351 menciones de personas individuales**: **310 mujeres (23,0 %)** y **1.041 hombres (77,0 %)**. Por cada mujer mencionada aparecen unos 3,4 hombres.
+
+### Protagonismo de las mujeres: roles y voz propia
+
+![Roles de las mujeres y citas directas](results/analisis_final_250/roles_mujeres.png)
+
+**Roles de las 310 mujeres mencionadas:**
+
+| Rol | Menciones | Porcentaje |
+|---|---|---|
+| Líder o experta | 136 | 43,9 % |
+| Secundario | 140 | 45,2 % |
+| Acompañante o víctima | 34 | 11,0 % |
+
+**Voz propia:** solo el **37,4 %** de las mujeres tiene una cita directa en el texto; el **62,6 %** aparece mencionada sin que se recoja una declaración suya.
+
+### Conclusiones
+
+- Las mujeres representan menos de una cuarta parte de las personas mencionadas en los artículos.
+- Cuando aparecen, lo hacen casi a partes iguales como líderes o expertas (43,9 %) y en roles secundarios (45,2 %). Solo un 11,0 % aparece como acompañante o víctima.
+- Menos de cuatro de cada diez mujeres mencionadas tienen voz propia, es decir, se las cita pero muchas veces no se las deja hablar.
+
+> **Nota:** las cifras son menciones, por lo que una misma persona puede contarse más de una vez si aparece en varios artículos. Además, son resultados del modelo: el benchmark validó la detección de mujeres (F1 de 0,94), pero los roles y las citas directas no se compararon con el golden standard.
+
 ---
 
 ## 4. Componentes de terceros
