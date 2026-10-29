@@ -163,34 +163,42 @@ Las métricas frente al golden standard solo se calculan para los artículos pre
 
 ### Resultados del benchmark
 
-> Completar con los valores de `results/comparativa_modelos.csv`.
+Evaluación de los 5 modelos frente al golden standard (15 artículos anotados manualmente):
 
-| Modelo | Precisión | Recall | F1 | Exactitud titular/apertura |
-|---|---|---|---|---|
-| Qwen2.5-VL-72B-Instruct | 1.00 | 0.86 | 0.92 | 1.00 |
-| Meta-Llama-3_3-70B-Instruct | 1.00 | 0.93 | 0.96 | 1.00 |
-| Mistral-Small-3.2-24B-Instruct-2506 | 1.00 | 1.00 | 1.00 | 1.00 |
-| gpt-oss-120b | 1.00 | 1.00 | 1.00 | 1.00 |
-| Qwen3.8-27B | 1.00 | 1.00 | 1.00 | 1.00 |
-
-### Gráfica comparativa de modelos
+| Modelo | Precisión | Recall | F1 |
+|---|---|---|---|
+| Qwen2.5-VL-72B-Instruct | 1.00 | 0.78 | 0.88 |
+| Meta-Llama-3_3-70B-Instruct | 1.00 | 0.83 | 0.91 |
+| gpt-oss-120b | 0.94 | 0.89 | 0.91 |
+| Qwen3.8-27B | 1.00 | 0.89 | 0.94 |
+| Mistral-Small-3.2-24B-Instruct-2506 | 0.94 | 0.94 | 0.94 |
 
 ![Comparativa de modelos abiertos frente al golden standard](results/benchmark_global_modelos.png)
 
-La gráfica compara los cinco modelos frente al golden standard anotado manualmente. Cada grupo de barras es un modelo y cada barra una métrica, con una puntuación entre 0 y 1 (cuanto más alta, mejor):
 
-- **Precisión (azul):** de las mujeres que detecta el modelo, cuántas son realmente mujeres mencionadas en el texto. Una precisión baja significa que el modelo se inventa o confunde personas (falsos positivos).
-- **Recall (verde azulado):** de las mujeres que aparecen en el texto, cuántas detecta el modelo. Un recall bajo significa que se le escapan mujeres (falsos negativos).
-- **F1-Score (verde claro):** media armónica de precisión y recall. Resume el equilibrio entre ambas en un solo número.
+**Cómo leer la gráfica:** cada grupo de barras es un modelo y cada barra una métrica, con una puntuación de 0 a 1 (cuanto más alta, mejor).
 
-**Cómo leerla**
+- **Precisión:** de las mujeres que detecta el modelo, cuántas son correctas. Una precisión baja indica falsos positivos.
+- **Recall:** de las mujeres que hay en el texto, cuántas detecta el modelo. Un recall bajo indica que se le escapan mujeres.
+- **F1-Score:** media armónica de precisión y recall; resume el equilibrio entre ambas.
 
-- Todos los modelos alcanzan una precisión de 1.00: no detectan como mujer a nadie que no lo sea.
-- Las diferencias están en el recall. Qwen2.5-VL-72B-Instruct (0.86) y Meta-Llama-3.3-70B-Instruct (0.93) omiten algunas mujeres, lo que baja su F1 (0.92 y 0.96).
-- Mistral-Small-3.2-24B-Instruct-2506, gpt-oss-120b y Qwen3.8-27B puntúan 1.00 en las tres métricas, y no se pueden distinguir con este benchmark.
+**Conclusiones:**
 
-> **Nota:** la muestra del golden standard es pequeña, así que un 1.00 no implica que el modelo sea perfecto, sino que no falló en estos artículos.
+- Todos los modelos obtienen una precisión alta (0.94-1.00): casi nunca detectan como mujer a quien no lo es.
+- Las diferencias están en el **recall**: Qwen2.5-VL (0.78) y Llama 3.3 (0.83) omiten más mujeres.
+- **Mistral-Small** y **Qwen3.8-27B** empatan en F1 (0.94). Mistral-Small es el más equilibrado (precisión y recall de 0.94), mientras que Qwen3.8-27B no se inventa ninguna mujer, pero deja escapar alguna más.
+- El modelo de mayor tamaño (gpt-oss-120b) no obtiene mejores resultados que los modelos más pequeños.
 
+### Modelo seleccionado: Mistral-Small-3.2-24B-Instruct-2506
+
+Elegimos Mistral-Small por:
+
+- **Mejor equilibrio:** F1 más alto (0.94), con la misma precisión que recall.
+- **Eficiencia:** con 24B de parámetros, es el modelo más pequeño de los evaluados, lo que reduce el coste, el tiempo y el consumo al procesar los 250 artículos.
+- **Licencia abierta:** Apache 2.0, sin restricciones adicionales.
+- **Origen europeo:** modelo europeo servido desde infraestructura europea (OVHcloud).
+
+> **Limitación:** el golden standard tiene solo 15 artículos, por lo que las diferencias entre modelos son pequeñas y deben interpretarse con cautela.
 
 ---
 
