@@ -37,26 +37,27 @@ Para cada artículo, el programa extrae:
 
 ```
 reto-ia-mujeres-equipo7/
-├── main.py                      # Pipeline completo (3 pasos)
-├── .env                         # Configuración y claves (no subir al repositorio)
-├── requirements.txt
 ├── data/
-│   ├── dataset_15.json          # 15 artículos a analizar
-│   └── golden_standard.json     # Anotación humana de referencia
+│   ├── dataset_15.json
+│   ├── dataset_250_articulos.json
+│   └── golden_standard.json
+├── results/
+│   ├── gpt-oss-120b/
+│   ├── Meta-Llama-3_3-70B-Instruct/
+│   ├── Mistral-Small-3.2-24B-Instruct-2506/
+│   ├── Qwen2.5-VL-72B-Instruct/
+│   ├── Qwen3.8-27B/
+│   ├── benchmark_global_modelos.png
+│   └── comparativa_modelos.csv
 ├── src/
-│   ├── evaluacion_modelos.py    # Paso 1: inferencia con el LLM
-│   ├── calcular_metricas.py     # Paso 2: comparación con el golden standard
-│   └── visualizacion.py         # Paso 3: gráficas
-└── results/
-    ├── comparativa_modelos.csv
-    ├── benchmark_global_modelos.png
-    └── <nombre_del_modelo>/
-        ├── predicciones.json
-        ├── predicciones.csv
-        ├── metricas.json
-        ├── desglose_por_articulo.csv
-        ├── presencia_genero.png
-        └── roles_mujeres.png
+│   ├── calcular_metricas.py
+│   ├── evaluacion_modelos.py
+│   └── visualizacion.py
+├── .gitignore
+├── LICENSE
+├── main.py
+├── README.md
+└── requirements.txt
 ```
 
 ---
@@ -118,7 +119,6 @@ RESULTS_DIR=results
 | `GOLDEN_STANDARD_PATH` | No | Anotación manual (por defecto `data/golden_standard.json`) |
 | `RESULTS_DIR` | No | Carpeta de resultados (por defecto `results`) |
 
-> No subas el `.env` al repositorio: añádelo a `.gitignore`.
 
 ---
 
