@@ -75,7 +75,7 @@ reto-ia-mujeres-equipo7/
 **Paso 1. Clonar el repositorio**
 
 ```bash
-git clone <https://github.com/Sofia130505/reto-ia-mujeres-equipo7.git>
+git clone <https://github.com/ComunidadIA-OS/Las3Neuronas-equipo7.git>
 cd reto-ia-mujeres-equipo7
 ```
 
