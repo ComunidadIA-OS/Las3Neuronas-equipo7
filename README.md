@@ -113,7 +113,7 @@ RESULTS_DIR= "results"
 
 
 | Variable  | Descripción |
-|---|---|---|
+|---|---|
 | `OVH_API_KEY` | Token de OVHcloud AI Endpoints |
 | `MODEL_NAME` | Modelo a utilizar |
 | `OVH_API_BASE`  | URL base de la API |
