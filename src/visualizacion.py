@@ -78,9 +78,14 @@ def generar_graficos_modelo_actual():
     if not MODEL_NAME:
         print("  [ERROR] La variable MODEL_NAME no está definida en el archivo .env.")
         return
+    
+    # Mismo criterio que evaluacion_modelos.py
+    if "250" in os.getenv("INPUT_DATA_PATH", ""):
+        carpeta_modelo = os.path.join(RESULTS_DIR, "analisis_final_250")
+    else:
+        nombre_carpeta_modelo = MODEL_NAME.replace("/", "_").replace(":", "_")
+        carpeta_modelo = os.path.join(RESULTS_DIR, nombre_carpeta_modelo)
 
-    nombre_carpeta_modelo = MODEL_NAME.replace("/", "_")
-    carpeta_modelo = os.path.join(RESULTS_DIR, nombre_carpeta_modelo)
     ruta_predicciones = os.path.join(carpeta_modelo, "predicciones.json")
 
     if not os.path.exists(ruta_predicciones):
@@ -163,7 +168,8 @@ def generar_graficos_modelo_actual():
 def ejecutar_visualizacion():
     print(f"\n=== GENERANDO VISUALIZACIONES PARA: {MODEL_NAME} ===")
     generar_graficos_modelo_actual()
-    generar_grafico_benchmark()
+    if "250" not in os.getenv("INPUT_DATA_PATH", ""):
+        generar_grafico_benchmark()
     print("=== PROCESO DE VISUALIZACIÓN COMPLETADO ===\n")
 
 
