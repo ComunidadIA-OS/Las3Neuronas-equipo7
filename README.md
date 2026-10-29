@@ -163,18 +163,21 @@ Las métricas frente al golden standard solo se calculan para los artículos pre
 
 ### Resultados del benchmark
 
-Evaluación de los 5 modelos frente al golden standard (15 artículos anotados manualmente):
+Evaluación de los 5 modelos frente al golden standard (15 artículos, 18 mujeres anotadas manualmente):
 
-| Modelo | Precisión | Recall | F1 |
-|---|---|---|---|
-| Qwen2.5-VL-72B-Instruct | 1.00 | 0.78 | 0.88 |
-| Meta-Llama-3_3-70B-Instruct | 1.00 | 0.83 | 0.91 |
-| gpt-oss-120b | 0.94 | 0.89 | 0.91 |
-| Qwen3.8-27B | 1.00 | 0.89 | 0.94 |
-| Mistral-Small-3.2-24B-Instruct-2506 | 0.94 | 0.94 | 0.94 |
+| Modelo | Precisión | Recall | F1 | TP | FP | FN |
+|---|---|---|---|---|---|---|
+| Mistral-Small-3.2-24B-Instruct-2506 | 0.9444 | 0.9444 | 0.9444 | 17 | 1 | 1 |
+| Qwen3.8-27B | 1.0000 | 0.8889 | 0.9412 | 16 | 0 | 2 |
+| gpt-oss-120b | 0.9412 | 0.8889 | 0.9143 | 16 | 1 | 2 |
+| Meta-Llama-3_3-70B-Instruct | 1.0000 | 0.8333 | 0.9091 | 15 | 0 | 3 |
+| Qwen2.5-VL-72B-Instruct | 1.0000 | 0.7778 | 0.8750 | 14 | 0 | 4 |
+
+**TP:** mujeres detectadas correctamente. **FP:** personas detectadas como mujeres que no lo son. **FN:** mujeres que el modelo no detecta.
+
+En los cinco modelos, la exactitud en la detección de mujer en titular o apertura es 1.00.
 
 ![Comparativa de modelos abiertos frente al golden standard](results/benchmark_global_modelos.png)
-
 
 **Cómo leer la gráfica:** cada grupo de barras es un modelo y cada barra una métrica, con una puntuación de 0 a 1 (cuanto más alta, mejor).
 
@@ -184,22 +187,21 @@ Evaluación de los 5 modelos frente al golden standard (15 artículos anotados m
 
 **Conclusiones:**
 
-- Todos los modelos obtienen una precisión alta (0.94-1.00): casi nunca detectan como mujer a quien no lo es.
-- Las diferencias están en el **recall**: Qwen2.5-VL (0.78) y Llama 3.3 (0.83) omiten más mujeres.
-- **Mistral-Small** y **Qwen3.8-27B** empatan en F1 (0.94). Mistral-Small es el más equilibrado (precisión y recall de 0.94), mientras que Qwen3.8-27B no se inventa ninguna mujer, pero deja escapar alguna más.
-- El modelo de mayor tamaño (gpt-oss-120b) no obtiene mejores resultados que los modelos más pequeños.
+- **Mistral-Small** obtiene el mejor F1 (0.9444) y el mejor recall (0.9444): detecta 17 de las 18 mujeres, con un solo falso positivo.
+- **Qwen3.8-27B** queda muy cerca (F1 0.9412). No tiene falsos positivos, pero se le escapan 2 mujeres. La diferencia con Mistral-Small equivale a una sola mujer.
+- Los modelos con precisión 1.00 (Qwen3.8-27B, Llama 3.3 y Qwen2.5-VL) son más conservadores: no se inventan mujeres, pero omiten más.
+- El modelo más grande (gpt-oss-120b, 120B parámetros) no obtiene mejores resultados que modelos mucho más pequeños.
 
 ### Modelo seleccionado: Mistral-Small-3.2-24B-Instruct-2506
 
 Elegimos Mistral-Small por:
 
-- **Mejor equilibrio:** F1 más alto (0.94), con la misma precisión que recall.
+- **Mejor rendimiento:** F1 más alto (0.9444) y mejor recall, lo que importa especialmente para medir presencia femenina, donde omitir mujeres distorsiona el resultado.
 - **Eficiencia:** con 24B de parámetros, es el modelo más pequeño de los evaluados, lo que reduce el coste, el tiempo y el consumo al procesar los 250 artículos.
 - **Licencia abierta:** Apache 2.0, sin restricciones adicionales.
 - **Origen europeo:** modelo europeo servido desde infraestructura europea (OVHcloud).
 
-> **Limitación:** el golden standard tiene solo 15 artículos, por lo que las diferencias entre modelos son pequeñas y deben interpretarse con cautela.
-
+> **Limitación:** el golden standard tiene solo 15 artículos y 18 mujeres, por lo que una diferencia de una mujer cambia el ranking. Las diferencias entre los dos primeros modelos son pequeñas y deben interpretarse con cautela. Además, la exactitud de titular/apertura no distingue entre modelos, porque en el golden standard ningún artículo tiene mujer en el titular o la apertura.
 ---
 
 ## 4. Componentes de terceros
