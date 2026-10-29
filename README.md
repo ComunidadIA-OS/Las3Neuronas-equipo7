@@ -5,7 +5,7 @@ Proyecto desarrollado en el marco del Reto **"Mujeres por la IA Abierta"** (novi
 
 ---
 
-## 1. Descripción de la solución
+## 1. Descripción
 
 ### Problema
 
