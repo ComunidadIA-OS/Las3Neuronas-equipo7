@@ -87,37 +87,39 @@ source .venv/bin/activate        # Linux / macOS
 pip install -r requirements.txt
 ```
 
-Contenido de `requirements.txt`:
-
-```
-openai
-python-dotenv
-pandas
-matplotlib
-seaborn
-```
+El archivo `requirements.txt` fija las versiones exactas con las que se ha desarrollado y probado el proyecto. Las dependencias directas son `openai`, `python-dotenv`, `pandas`, `matplotlib` y `seaborn`; el resto son dependencias que se instalan con ellas (por ejemplo `numpy`, `pydantic` o `httpx2`).
 
 **Paso 4. Configurar las variables de entorno**
 
 Crea un archivo `.env` en la raíz del proyecto:
 
 ```env
-OVH_API_KEY=tu_token_de_ovhcloud
-OVH_API_BASE=https://oai.endpoints.kepler.ai.cloud.ovh.net/v1
-MODEL_NAME=Meta-Llama-3_3-70B-Instruct
-INPUT_DATA_PATH=data/dataset_15.json
-GOLDEN_STANDARD_PATH=data/golden_standard.json
-RESULTS_DIR=results
+OVH_API_KEY= "tu_token_de_ovhcloud"
+OVH_API_BASE= "https://oai.endpoints.kepler.ai.cloud.ovh.net/v1"
+MODEL_NAME= "nombre_del modelo"
+INPUT_DATA_PATH= "data/dataset_elegido.json"
+GOLDEN_STANDARD_PATH= "data/golden_standard.json"
+RESULTS_DIR= "results"
+```
+Ejemplo de archivo `.env`
+```env
+OVH_API_KEY= "tu_token_de_ovhcloud"
+OVH_API_BASE= "https://oai.endpoints.kepler.ai.cloud.ovh.net/v1"
+MODEL_NAME= "Meta-Llama-3_3-70B-Instruct"
+INPUT_DATA_PATH= "data/dataset_15.json"
+GOLDEN_STANDARD_PATH= "data/golden_standard.json"
+RESULTS_DIR= "results"
 ```
 
-| Variable | Obligatoria | Descripción |
+
+| Variable  | Descripción |
 |---|---|---|
-| `OVH_API_KEY` | Sí | Token de OVHcloud AI Endpoints |
-| `MODEL_NAME` | Sí | Modelo a utilizar |
-| `OVH_API_BASE` | No | URL base de la API |
-| `INPUT_DATA_PATH` | No | Dataset de entrada (por defecto `data/dataset_15.json`) |
-| `GOLDEN_STANDARD_PATH` | No | Anotación manual (por defecto `data/golden_standard.json`) |
-| `RESULTS_DIR` | No | Carpeta de resultados (por defecto `results`) |
+| `OVH_API_KEY` | Token de OVHcloud AI Endpoints |
+| `MODEL_NAME` | Modelo a utilizar |
+| `OVH_API_BASE`  | URL base de la API |
+| `INPUT_DATA_PATH`  | Dataset de entrada (por defecto `data/dataset_15.json`) |
+| `GOLDEN_STANDARD_PATH`  | Anotación manual (por defecto `data/golden_standard.json`) |
+| `RESULTS_DIR` | Carpeta de resultados (por defecto `results`) |
 
 
 ---
@@ -147,8 +149,8 @@ python -m src.visualizacion        # Gráficas: genera los .png
 Cambia `MODEL_NAME` en el `.env` y vuelve a ejecutar `python main.py`. Cada modelo guarda sus resultados en su carpeta, y `results/comparativa_modelos.csv` se actualiza con una fila por modelo.
 
 ```bash
-MODEL_NAME=Meta-Llama-3_3-70B-Instruct python main.py
-MODEL_NAME=gpt-oss-120b python main.py
+MODEL_NAME= "Meta-Llama-3_3-70B-Instruct python main.py"
+MODEL_NAME= "gpt-oss-120b python main.py"
 ```
 
 ### Analizar el dataset completo (250 artículos)
@@ -165,13 +167,14 @@ Las métricas frente al golden standard solo se calculan para los artículos pre
 
 | Modelo | Precisión | Recall | F1 | Exactitud titular/apertura |
 |---|---|---|---|---|
-| Qwen2.5-VL-72B-Instruct | | | | |
-| Meta-Llama-3_3-70B-Instruct | | | | |
-| Mistral-Small-3.2-24B-Instruct-2506 | | | | |
-| gpt-oss-120b | | | | |
-| Qwen3.8-27B | | | | |
+| Qwen2.5-VL-72B-Instruct | 1.00 | 0.86 | 0.92 | 1.00 |
+| Meta-Llama-3_3-70B-Instruct | 1.00 | 0.93 | 0.96 | 1.00 |
+| Mistral-Small-3.2-24B-Instruct-2506 | 1.00 | 1.00 | 1.00 | 1.00 |
+| gpt-oss-120b | 1.00 | 1.00 | 1.00 | 1.00 |
+| Qwen3.8-27B | 1.00 | 1.00 | 1.00 | 1.00 |
 
 **Modelo seleccionado:** _por decidir_
+
 
 ---
 

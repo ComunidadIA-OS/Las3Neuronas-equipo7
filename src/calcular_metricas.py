@@ -80,10 +80,10 @@ def ejecutar_calculo():
         pred_data = json.load(f)
 
     # Mapear predicciones por ID de artículo
-    pred_dict = {
-        item["id"]: item.get("prediccio", item.get("prediccion", {})) 
-        for item in pred_data
-    }
+     pred_dict = {
+    str(item["id"]): item.get("prediccio", item.get("prediccion", {}))
+    for item in pred_data
+}
 
     total_tp = 0
     total_fp = 0
@@ -94,8 +94,9 @@ def ejecutar_calculo():
     detalles_articulos = []
 
     for item in golden_data:
-        art_id = item.get("id")
+        art_id = str(item.get("id"))
         if art_id not in pred_dict:
+             print(f"  [AVISO] Artículo {art_id} del golden standard sin predicción: se omite.")
             continue
 
         total_articulos_evaluados += 1
