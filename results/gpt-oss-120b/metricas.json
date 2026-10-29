@@ -1,11 +1,13 @@
 {
   "modelo": "gpt-oss-120b",
-  "articulos_evaluados": 10,
-  "precision_mujeres": 1.0,
-  "recall_mujeres": 1.0,
-  "f1_mujeres": 1.0,
+  "articulos_golden": 15,
+  "articulos_evaluados": 15,
+  "articulos_omitidos": 0,
+  "precision_mujeres": 0.9412,
+  "recall_mujeres": 0.8889,
+  "f1_mujeres": 0.9143,
   "exactitud_titular_apertura": 1.0,
-  "verdaderos_positivos": 14,
-  "falsos_positivos": 0,
-  "falsos_negativos": 0
+  "verdaderos_positivos": 16,
+  "falsos_positivos": 1,
+  "falsos_negativos": 2
 }

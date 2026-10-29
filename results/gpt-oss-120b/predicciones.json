@@ -20,12 +20,12 @@
       "roles_mujeres": [
         {
           "nombre": "Eva Granados",
-          "tipo_rol": "lider_o_experta",
+          "tipo_rol": "secundario",
           "tiene_cita_directa": false
         },
         {
           "nombre": "Núria Parlon",
-          "tipo_rol": "lider_o_experta",
+          "tipo_rol": "secundario",
           "tiene_cita_directa": false
         }
       ]
@@ -35,7 +35,7 @@
     "id": 2470,
     "titular": "L'Eurocambra instarà dijous els estats a prohibir les fundacions que \"glorifiquen\" el feixisme",
     "prediccion": {
-      "total_personas_mencionadas": 6,
+      "total_personas_mencionadas": 9,
       "mujeres_mencionadas": [
         "Eleonora Forenza",
         "Ana Miranda",
@@ -44,7 +44,10 @@
         "Róża Thun"
       ],
       "hombres_mencionados": [
-        "Antonio Perillo"
+        "Antonio Perillo",
+        "Francisco Franco",
+        "Adolf Hitler",
+        "Benito Mussolini"
       ],
       "mujer_en_titular_o_apertura": false,
       "roles_mujeres": [
@@ -55,12 +58,12 @@
         },
         {
           "nombre": "Ana Miranda",
-          "tipo_rol": "secundario",
+          "tipo_rol": "lider_o_experta",
           "tiene_cita_directa": true
         },
         {
           "nombre": "Soraya Post",
-          "tipo_rol": "secundario",
+          "tipo_rol": "lider_o_experta",
           "tiene_cita_directa": true
         },
         {
@@ -94,11 +97,9 @@
     "id": 2804,
     "titular": "Els Agents Rurals intercepten 1.200 ocells en una furgoneta per als concursos il·legals de cant",
     "prediccion": {
-      "total_personas_mencionadas": 1,
+      "total_personas_mencionadas": 0,
       "mujeres_mencionadas": [],
-      "hombres_mencionados": [
-        "el conductor"
-      ],
+      "hombres_mencionados": [],
       "mujer_en_titular_o_apertura": false,
       "roles_mujeres": []
     }
@@ -253,7 +254,7 @@
     }
   },
   {
-    "id": "269",
+    "id": 269,
     "titular": "Castelló ja pot consultar el pla especial de protecció del convent dels Carmelos",
     "prediccion": {
       "total_personas_mencionadas": 2,
@@ -267,7 +268,7 @@
     }
   },
   {
-    "id": "2857",
+    "id": 2857,
     "titular": "La policia espanyola intervé unes 15.000 plantes de marihuana enguany a la demarcació de Tarragona",
     "prediccion": {
       "total_personas_mencionadas": 3,
@@ -289,7 +290,7 @@
     }
   },
   {
-    "id": "884",
+    "id": 884,
     "titular": "El parlament reprova l’ex-president Pujol pels diners a Andorra",
     "prediccion": {
       "total_personas_mencionadas": 6,
@@ -298,10 +299,10 @@
       ],
       "hombres_mencionados": [
         "Jordi Pujol",
-        "Oriol Pujol",
         "Artur Mas",
         "Jorge Fernández Díaz",
-        "Manuel Bustos"
+        "Manuel Bustos",
+        "Oriol Pujol"
       ],
       "mujer_en_titular_o_apertura": false,
       "roles_mujeres": [
@@ -314,14 +315,14 @@
     }
   },
   {
-    "id": "1935",
+    "id": 1935,
     "titular": "Torra reclama un «diàleg sincer» a l'Estat després de la petició de reunió de Sánchez",
     "prediccion": {
       "total_personas_mencionadas": 9,
       "mujeres_mencionadas": [],
       "hombres_mencionados": [
         "Quim Torra",
-        "Pedro Sánchez",
+        "Sánchez",
         "Jordi Cuixart",
         "Roger Torrent",
         "Marcel Mauri",
@@ -335,7 +336,7 @@
     }
   },
   {
-    "id": "2993",
+    "id": 2993,
     "titular": "La fiscalia carrega contra les defenses per presentar els acusats com a \"víctimes de persecució política\"",
     "prediccion": {
       "total_personas_mencionadas": 5,
@@ -344,9 +345,9 @@
       ],
       "hombres_mencionados": [
         "Javier Zaragoza",
-        "Carles Puigdemont",
+        "Puigdemont",
         "el rey",
-        "Jordi Cuixart"
+        "Cuixart"
       ],
       "mujer_en_titular_o_apertura": false,
       "roles_mujeres": [

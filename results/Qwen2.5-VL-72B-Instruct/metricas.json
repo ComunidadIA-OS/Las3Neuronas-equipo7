@@ -1,11 +1,13 @@
 {
   "modelo": "Qwen2.5-VL-72B-Instruct",
-  "articulos_evaluados": 10,
+  "articulos_golden": 15,
+  "articulos_evaluados": 15,
+  "articulos_omitidos": 0,
   "precision_mujeres": 1.0,
-  "recall_mujeres": 0.8571,
-  "f1_mujeres": 0.9231,
+  "recall_mujeres": 0.7778,
+  "f1_mujeres": 0.875,
   "exactitud_titular_apertura": 1.0,
-  "verdaderos_positivos": 12,
+  "verdaderos_positivos": 14,
   "falsos_positivos": 0,
-  "falsos_negativos": 2
+  "falsos_negativos": 4
 }
