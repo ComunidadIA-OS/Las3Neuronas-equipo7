@@ -227,31 +227,23 @@ La gráfica compara los cinco modelos frente al golden standard anotado manualme
 - **OVHcloud AI Endpoints:** inferencia de los modelos mediante API compatible con OpenAI.
 
 ---
-
 ## 5. Hoja de ruta (Roadmap)
 
-**Fase 1: Benchmark (completada)**
-- [x] Anotación manual de 15 artículos (golden standard).
-- [x] Pipeline de inferencia, métricas y visualización.
-- [x] Comparación de 5 modelos abiertos.
+**Fase 1: Benchmark inicial (completada)**
+- [x] Anotación manual de un golden standard de 15 artículos de caBreu.
+- [x] Pipeline completo: extracción con LLM, cálculo de métricas y visualización.
+- [x] Comparación de 5 modelos abiertos frente al golden standard.
 
 **Fase 2: Análisis a escala (en curso)**
-- [ ] Selección del mejor modelo según el benchmark.
-- [ ] Procesamiento de los 250 artículos y publicación de resultados.
-- [ ] Informe con indicadores agregados de presencia y protagonismo.
+- [x] Seleccionar el mejor modelo según el benchmark.
+- [x] Procesar los 250 artículos con el modelo seleccionado.
+- [x] Obtener los indicadores globales de presencia y protagonismo femenino.
 
-**Fase 3: Mejoras de evaluación**
-- [ ] Evaluar frente al golden standard los roles y las citas directas, además de la detección de mujeres.
-- [ ] Ampliar el golden standard con más artículos y más anotadoras o anotadores para medir el acuerdo entre personas.
-- [ ] Resolver variantes de nombres ("Ada Colau" / "Colau") y referencias por cargo ("la ministra").
-- [ ] Probar variantes del prompt (por ejemplo, ejemplos few-shot).
-
-**Fase 4: Ampliación**
-- [ ] Soporte para más idiomas y fuentes de prensa.
-- [ ] Interfaz web para subir artículos y ver los indicadores.
-- [ ] Salida estandarizada de indicadores para observatorios de igualdad.
-- [ ] Ampliación a otras modalidades (audio y vídeo, mediante transcripción previa).
-
+**Fase 3: Mejoras futuras**
+- [ ] **Análisis por categoría:** cruzar los resultados con la categoría de cada artículo (política, economía, cultura, sociedad…) para ver en qué ámbitos tienen más o menos presencia las mujeres. Requiere unificar las categorías de caBreu, ya que algunos artículos no tienen y el formato varía.
+- [ ] **Más modelos:** ampliar el benchmark con otros modelos abiertos disponibles.
+- [ ] **Modelos grandes frente a pequeños:** comparar modelos con muchos parámetros (70B-120B) con otros mucho más pequeños, para ver cuánta calidad se pierde y cuánto se ahorra en coste y consumo.
+- [ ] **Golden standard más grande y más difícil:** pasar de 15 a más artículos anotados a mano, incluyendo textos ambiguos (nombres que no indican género claro, referencias por cargo, nombres incompletos, etc.) para que el benchmark distinga mejor entre modelos.
 ---
 
 ## Equipo
