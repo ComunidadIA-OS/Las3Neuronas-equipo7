@@ -1,0 +1,6169 @@
+[
+  {
+    "id": "39",
+    "titular": "Els arqueòlegs ratifiquen l’existència del celler més antic de Catalunya, del segle III aC, al Coll del Moro",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [
+        "Carme Belarte"
+      ],
+      "hombres_mencionados": [
+        "Rafel Jornet",
+        "Carles Luz"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Carme Belarte",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "1965",
+    "titular": "La Generalitat donarà una ajuda de 2.000 euros a 116.000 autònoms",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [
+        "Marta Cassany"
+      ],
+      "hombres_mencionados": [
+        "Pere Aragonès",
+        "Chakir El Homrani",
+        "Josep Ginesta",
+        "Francesc Iglesias",
+        "Oriol Amorós"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Marta Cassany",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1914",
+    "titular": "ERC lamenta «profundament» la resolució del Suprem i recorrerà a institucions europees",
+    "prediccion": {
+      "total_personas_mencionadas": 12,
+      "mujeres_mencionadas": [
+        "Carme Forcadell",
+        "Ada Colau",
+        "Marta Pascal"
+      ],
+      "hombres_mencionados": [
+        "Sergi Sabrià",
+        "Oriol Junqueras",
+        "Carles Puigdemont",
+        "Joaquim Forn",
+        "Joan Tardà",
+        "Gabriel Rufián",
+        "Antoni Castellà",
+        "Albano Dante Fachin"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Carme Forcadell",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Ada Colau",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Marta Pascal",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "52",
+    "titular": "El reciclatge es dispara a Castelló i creix un 22% a tota la ciutat",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Ignasi Garcia"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1866",
+    "titular": "«O s'aproven els pressupostos que enllesteix Junqueras o convocaré eleccions»: Puigdemont en 10 frases",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Carles Puigdemont",
+        "Oriol Junqueras",
+        "el president de la Xunta"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1845",
+    "titular": "Vuitanta anys de la tragèdia",
+    "prediccion": {
+      "total_personas_mencionadas": 12,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Companys",
+        "Miquel Badia",
+        "Domènec Badia",
+        "Francesc Cambó",
+        "Portela Valladares",
+        "Gil Robles",
+        "José Antonio Primo de Rivera",
+        "José Calvo Sotelo",
+        "Azaña",
+        "Casares Quiroga",
+        "José Castillo",
+        "Joaquim Pellicena",
+        "Francesc Cambó"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1378",
+    "titular": "La Guàrdia Civil irromp a les seus de l'ANC i Òmnium per buidar els correus dels «Jordis»",
+    "prediccion": {
+      "total_personas_mencionadas": 8,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Jordi Sànchez",
+        "Jordi Cuixart",
+        "Marcel Mauri",
+        "Agustí Alcoberro",
+        "Jordi Pina",
+        "Carles Puigdemont"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2278",
+    "titular": "La contaminació de l'aire a Barcelona baixa un 64% a Barcelona durant el mes de març, segons un estudi",
+    "prediccion": {
+      "total_personas_mencionadas": 0,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2124",
+    "titular": "Arrimadas carrega contra Cunillera: \"Ni aforaments ni indults a polítics que han fet un cop d'Estat\"",
+    "prediccion": {
+      "total_personas_mencionadas": 5,
+      "mujeres_mencionadas": [
+        "Inés Arrimadas",
+        "Teresa Cunillera"
+      ],
+      "hombres_mencionados": [
+        "Carlos Carrizosa",
+        "Toni Cantó",
+        "Pedro Sánchez"
+      ],
+      "mujer_en_titular_o_apertura": true,
+      "roles_mujeres": [
+        {
+          "nombre": "Inés Arrimadas",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Teresa Cunillera",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "2957",
+    "titular": "De la Serna reitera el rebuig a la segona plataforma ferroviària entre Castelló i Vandellòs per una previsió de baix ús",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Íñigo de la Serna"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1012",
+    "titular": "23 de febrer: dialoguem o negociem?",
+    "prediccion": {
+      "total_personas_mencionadas": 14,
+      "mujeres_mencionadas": [
+        "Marta Ribas"
+      ],
+      "hombres_mencionados": [
+        "Felip VI",
+        "Iñaki Urdangarin",
+        "Álvaro P. Ruiz de Elvira",
+        "Javier Cárdenas",
+        "Artur Mas",
+        "Juan José Ibarretxe",
+        "Josep-Lluís Carod-Rovira",
+        "Jean-Guy Talamoni",
+        "Joan Carles I",
+        "Leopoldo Calvo-Sotelo",
+        "Adolfo Suárez",
+        "Antonio Tejero",
+        "Rafael Ribó",
+        "Ernest Urtasun",
+        "David Cid",
+        "Ferran Casas i Manresa"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Marta Ribas",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "467",
+    "titular": "Rússia celebra eleccions parlamentàries amb la victòria assegurada per a Putin",
+    "prediccion": {
+      "total_personas_mencionadas": 8,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Vladímir Putin",
+        "Vladimir Jirinovski",
+        "Mikhaïl Kassiànov",
+        "Alexei Navalni",
+        "Víktor Ianukóvitx",
+        "Andrew Monaghan"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2365",
+    "titular": "S'estima que entre 15.000 i 30.000 catalans utilitzen el cànnabis amb finalitats terapèutiques",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [
+        "La Llibertat González"
+      ],
+      "hombres_mencionados": [
+        "Òscar Parés"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "La Llibertat González",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2189",
+    "titular": "L'ERO temporal a la Torrot-Gas Gas afecta 128 treballadors i la companyia vol aplicar-lo a partir de l'1 de juliol",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [
+        "Isabel Martínez"
+      ],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Isabel Martínez",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2543",
+    "titular": "Càritas Diocesana de Vic va atendre 4.513 persones el 2017",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Rufí Cerdan"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "116",
+    "titular": "Fernández Díaz, acorralat quan només falten tres dies per a les eleccions",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Jorge Fernández Díaz",
+        "Daniel De Alfonso",
+        "Mariano Rajoy",
+        "Oriol Junqueras",
+        "Rodrigo Rato"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2263",
+    "titular": "Dels 114 col·legis electorals a l'Alt Empordà només 2 han hagut de tancar forçosament per l'actuació policial",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [
+        "Marta Felip"
+      ],
+      "hombres_mencionados": [
+        "Lluís Benejam"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Marta Felip",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "353",
+    "titular": "Ada Colau explica a Le Monde com el 20-D podria portar a la independència",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [
+        "Ada Colau"
+      ],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": true,
+      "roles_mujeres": [
+        {
+          "nombre": "Ada Colau",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2701",
+    "titular": "Aena destinarà a nous usos l'edifici d'aparcaments que té tancat a l'Aeroport de Girona",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Lluís Sala"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1341",
+    "titular": "Felip Puig qüestiona la legitimitat de Benach i Carod",
+    "prediccion": {
+      "total_personas_mencionadas": 9,
+      "mujeres_mencionadas": [
+        "Benach"
+      ],
+      "hombres_mencionados": [
+        "Felip Puig",
+        "Carod",
+        "el presidente Montilla",
+        "Puigcercós",
+        "Ridao",
+        "Joan Carretero",
+        "Josep Maria Pelegrí"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Benach",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "339",
+    "titular": "La dimissió de Cifuentes, l’últim símptoma de la caiguda en picat del PP",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [
+        "Cristina Cifuentes",
+        "Esperanza Aguirre"
+      ],
+      "hombres_mencionados": [
+        "Mariano Rajoy",
+        "Jaume Matas",
+        "Francisco Camps",
+        "Ignacio Aguado",
+        "Albert Rivera",
+        "Puigdemont"
+      ],
+      "mujer_en_titular_o_apertura": true,
+      "roles_mujeres": [
+        {
+          "nombre": "Cristina Cifuentes",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Esperanza Aguirre",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "2934",
+    "titular": "Desarticulada una banda a Nou Barris per traficar amb drogues, robar camions i ocupar pisos buits per revendre'ls",
+    "prediccion": {
+      "total_personas_mencionadas": 0,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1353",
+    "titular": "La injustícia persisteix (ara més a prop)",
+    "prediccion": {
+      "total_personas_mencionadas": 20,
+      "mujeres_mencionadas": [
+        "Carme Forcadell",
+        "Dolors Bassa",
+        "Sara González"
+      ],
+      "hombres_mencionados": [
+        "Oriol Junqueras",
+        "Jordi Sànchez",
+        "Jordi Cuixart",
+        "Raül Romeva",
+        "Quim Forn",
+        "Jordi Turull",
+        "Josep Rull",
+        "Pedro Sánchez",
+        "Quim Torra",
+        "Antoni Tortajada",
+        "Adolfo Suárez",
+        "Joan Carles I",
+        "Tom Cruise",
+        "Ferran Casas i Manresa"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Carme Forcadell",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Dolors Bassa",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Sara González",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "2938",
+    "titular": "El Palau Solterra mostra les \"afinitats\" i connexions en l'obra de dotze fotògrafes iranianes i espanyoles",
+    "prediccion": {
+      "total_personas_mencionadas": 18,
+      "mujeres_mencionadas": [
+        "Zara Fernández",
+        "María Zarazúa",
+        "Newska Tavakolian",
+        "Soledad Córdoba",
+        "Shadi Ghadirian",
+        "Cristina Garcia",
+        "Hengameh Golestan",
+        "Amparo Garrido",
+        "Rana Javadi",
+        "Isabel Muñoz",
+        "Gohar Dashti",
+        "Mayte Vieta",
+        "Ghazaleh Hedayat",
+        "Andrea Torres",
+        "Sabela Eiriz",
+        "Pilar Aymerich"
+      ],
+      "hombres_mencionados": [
+        "Santiago Olmo",
+        "Álvaro Sánchez-Montañés",
+        "Manel Armengol",
+        "Vicenç Rovira",
+        "Manel Esclusa"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Zara Fernández",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "María Zarazúa",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Newska Tavakolian",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Soledad Córdoba",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Shadi Ghadirian",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Cristina Garcia",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Hengameh Golestan",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Amparo Garrido",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Rana Javadi",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Isabel Muñoz",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Gohar Dashti",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Mayte Vieta",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Ghazaleh Hedayat",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Andrea Torres",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Sabela Eiriz",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Pilar Aymerich",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "2194",
+    "titular": "Girona permetrà ajuntar tots els impostos i taxes en un sol rebut i fraccionar-lo en deu mensualitats",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [
+        "Maria Àngels Planas"
+      ],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Maria Àngels Planas",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "132",
+    "titular": "Oriol Junqueras: ‘La presó és indispensable perquè el món s’adoni de l’estat al qual ens enfrontem’",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Oriol Junqueras"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "107",
+    "titular": "La fiscalia demana que s’arxivi la causa del PP contra Rubén Trenzano",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [
+        "Eva Ortiz",
+        "la parlamentària de Compromís"
+      ],
+      "hombres_mencionados": [
+        "Rubén Trenzano",
+        "Francis Puig",
+        "el president de la Generalitat",
+        "el fiscal"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Eva Ortiz",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "la parlamentària de Compromís",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "1004",
+    "titular": "La Fundació Bofill alerta que la crisi del coronavirus pot agreujar la segregació escolar",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Ismael Palacín",
+        "Joan Cuevas"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1119",
+    "titular": "Les hores decisives de la DUI aterren al judici",
+    "prediccion": {
+      "total_personas_mencionadas": 11,
+      "mujeres_mencionadas": [
+        "Dolors Bassa",
+        "Meritxell Borràs"
+      ],
+      "hombres_mencionados": [
+        "Joaquim Forn",
+        "Carles Puigdemont",
+        "Jordi Sànchez",
+        "Rafel Ribó",
+        "Xavier Melero",
+        "Oriol Junqueras",
+        "Jordi Turull",
+        "Josep Rull"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Dolors Bassa",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Meritxell Borràs",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "2214",
+    "titular": "Un 84% de persones amb discapacitat intel·lectual prenen medicació diària, segons un estudi",
+    "prediccion": {
+      "total_personas_mencionadas": 7,
+      "mujeres_mencionadas": [
+        "María José Cortés",
+        "Carolina Alves",
+        "Anna Sansano"
+      ],
+      "hombres_mencionados": [
+        "Rafael Martínez",
+        "Ramon Novell",
+        "Xavier Orno"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "María José Cortés",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Carolina Alves",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Anna Sansano",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1443",
+    "titular": "Adéu a l'àliga franquista",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "José Bono",
+        "Federico Trillo",
+        "Oriol Junqueras"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1386",
+    "titular": "La Guerra Civil s'ha menjat la Segona República al cinema",
+    "prediccion": {
+      "total_personas_mencionadas": 12,
+      "mujeres_mencionadas": [
+        "Clara Campoamor"
+      ],
+      "hombres_mencionados": [
+        "Andreu Buenafuente",
+        "Toni Soler",
+        "Manuel Huerga",
+        "Salvador Puig Antich",
+        "Francesc Macià",
+        "Lluís Companys",
+        "Tarradellas",
+        "Castells",
+        "Alfons XIII",
+        "José Luis Cuerda"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Clara Campoamor",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "297",
+    "titular": "Boges per la ciència",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [
+        "Alícia Villar Aguilés"
+      ],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Alícia Villar Aguilés",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1732",
+    "titular": "La inestabilitat torna a Irlanda del Nord",
+    "prediccion": {
+      "total_personas_mencionadas": 5,
+      "mujeres_mencionadas": [
+        "Arlene Foster"
+      ],
+      "hombres_mencionados": [
+        "Martin McGuinness",
+        "Ian Paisley"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Arlene Foster",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "846",
+    "titular": "Público aclareix una part del fosc ‘lliurament controlat’ de documentació dels Mossos",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [
+        "Carmen Lamela"
+      ],
+      "hombres_mencionados": [
+        "Miguel Justo Medrano"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Carmen Lamela",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1790",
+    "titular": "Montero reclama el vot per a Domènech perquè «ni mentirà ni robarà»",
+    "prediccion": {
+      "total_personas_mencionadas": 12,
+      "mujeres_mencionadas": [
+        "Irene Montero",
+        "Marta Ribas"
+      ],
+      "hombres_mencionados": [
+        "Xavier Domènech",
+        "Lluís Tejedor",
+        "Pablo Iglesias",
+        "Mariano Rajoy",
+        "Pedro Sánchez",
+        "Miquel Iceta",
+        "José María Aznar",
+        "Artur Mas",
+        "Vicenç Navarro"
+      ],
+      "mujer_en_titular_o_apertura": true,
+      "roles_mujeres": [
+        {
+          "nombre": "Irene Montero",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Marta Ribas",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "702",
+    "titular": "La foguera més gran del món cremarà avui a Canals",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Joan Carles Pastor",
+        "Toni Sanchis"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "223",
+    "titular": "Crit d’alerta pel desnonament imminent de dues famílies del Poble Sec sense alternativa habitacional",
+    "prediccion": {
+      "total_personas_mencionadas": 5,
+      "mujeres_mencionadas": [
+        "La Berta",
+        "La Clàudia",
+        "Yanilady"
+      ],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "La Berta",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "La Clàudia",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Yanilady",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "1979",
+    "titular": "El TC manté la suspensió cautelar d'alguns articles de la llei d'habitatge i pobresa energètica",
+    "prediccion": {
+      "total_personas_mencionadas": 0,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2054",
+    "titular": "Puigdemont no creu que s'hagi d'\"explicitar en un paper\" que ERC, JxCAT i la CUP defensen una \"mateixa causa\"",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Carles Puigdemont"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2757",
+    "titular": "Els caçadors gironins maten prop d'un 30% de porcs senglars menys que fa tres anys per la caiguda de població",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Josep Blanquerna"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "284",
+    "titular": "Entre la maldat, la cortina de fum i l’atreviment d’una ignorància atàvica",
+    "prediccion": {
+      "total_personas_mencionadas": 5,
+      "mujeres_mencionadas": [
+        "Estefania Blanes",
+        "Isabel Bonig"
+      ],
+      "hombres_mencionados": [
+        "Enric Morera",
+        "Alfonso Rus"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Estefania Blanes",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Isabel Bonig",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "106",
+    "titular": "L’òmicron predomina entre els pacients ingressats a planta, però no a les UCI",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Manel Cervantes"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2372",
+    "titular": "Un 40% dels resultats de cerques a YouTube amb dubtes sobre les vacunes difonen el \"discurs antivacunes\"",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [
+        "Magda Campins"
+      ],
+      "hombres_mencionados": [
+        "Jaume Padrós",
+        "Roger Loppacher"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Magda Campins",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "347",
+    "titular": "[En directe] Puigdemont: ‘Estic convençut que no trigaré vint anys a trepitjar Catalunya’",
+    "prediccion": {
+      "total_personas_mencionadas": 5,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Carles Puigdemont",
+        "Pedro Sánchez",
+        "Quim Torra",
+        "Jaume Alonso-Cuevillas",
+        "Llarena"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2868",
+    "titular": "Ensenyament eliminarà tres grups de P3 a Lleida i un a Mollerussa per la baixada de la natalitat",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Miquel Àngel Cullerés"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2540",
+    "titular": "L'European Balloon Festival reunirà 54 globus d'arreu del món que s'enlairaran des del nou camp de vol d'Igualada",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Marc Castells",
+        "Josep Maria Lladó",
+        "Jordi Enrich"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2748",
+    "titular": "El magistrat que ha de redactar la resolució sobre la llibertat de Forn, ocupat tot el dia amb la vista del 'cas Noos'",
+    "prediccion": {
+      "total_personas_mencionadas": 8,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Miguel Colmenero",
+        "Alberto Jorge Barreiro",
+        "Francisco Monterde",
+        "Joaquim Forn",
+        "Jordi Sànchez",
+        "Fidel Cadena",
+        "Julián Sánchez Melgar",
+        "el juez Llarena"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1584",
+    "titular": "La presó oblidada",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [
+        "Reina Amàlia"
+      ],
+      "hombres_mencionados": [
+        "Nicómedes Méndez",
+        "Guillem Faraudo",
+        "Ramon Casas"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Reina Amàlia",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "216",
+    "titular": "El parlament iraquià aprova una moció per a expulsar les tropes nord-americanes",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Qasem Soleimani",
+        "Abu Mahdi al-Muhandis",
+        "Ali Khamenei",
+        "Hassan Rouhani"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "535",
+    "titular": "‘La República és inevitable, senzillament, perquè és necessària’, carta de Raül Romeva a Borja de Riquer",
+    "prediccion": {
+      "total_personas_mencionadas": 8,
+      "mujeres_mencionadas": [
+        "Cristina",
+        "Blanca"
+      ],
+      "hombres_mencionados": [
+        "Raül Romeva",
+        "Borja de Riquer",
+        "Nelson Mandela",
+        "Ahmed Kathrada",
+        "Sánchez"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Cristina",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Blanca",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "303",
+    "titular": "Junqueras veu probable la investidura de Mas abans no s’acabi l’any",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Oriol Junqueras",
+        "Artur Mas",
+        "Benito Mussolini"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2195",
+    "titular": "El Bisbat de Vic engega Episcopus, un ambiciós projecte per tirar endavant més de 50 iniciatives en quatre anys",
+    "prediccion": {
+      "total_personas_mencionadas": 7,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Oliba",
+        "Torras i Bages",
+        "Francesc Veyan",
+        "Romà Casanova",
+        "David Compte",
+        "Valentí Miserachs",
+        "Carlemany"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2801",
+    "titular": "El jutjat de Vinaròs declara la investigació pel Castor \"causa complexa\" i allarga la seva instrucció un any més",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [
+        "la jutgessa substituta"
+      ],
+      "hombres_mencionados": [
+        "el jutge substitut",
+        "Víctor Capilla",
+        "Mohamad Jaffar Khan",
+        "Harold Philip Gordon",
+        "Recaredo del Potro"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "la jutgessa substituta",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "49",
+    "titular": "Eduard Voltas: ‘És hora que els votants independentistes inclinin clarament la balança’",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Eduard Voltas"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "807",
+    "titular": "Revista de Catalunya: 300 números i un munt d’anys de feina ben feta",
+    "prediccion": {
+      "total_personas_mencionadas": 18,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Enric Prat de la Riba",
+        "Max Cahner",
+        "J. V. Foix",
+        "Armand Obiols",
+        "Ferran Soldevila",
+        "Antoni Rovira i Virgili",
+        "Jaume Serra i Húnter",
+        "Albert Manent",
+        "Joan Vallvé",
+        "Quim Torra",
+        "Vicenç Villatoro",
+        "Lluís Duran",
+        "Jaume Medina",
+        "Frederic Pau Verrié",
+        "Josep Tarradellas",
+        "Jordi Manent",
+        "Jordi Amat",
+        "Josep M. Roig Rosich",
+        "Xavier Pla",
+        "Josep Pla"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1621",
+    "titular": "Els taxistes musulmans demanen un oratori a l'aeroport del Prat",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Ithan Asraf",
+        "Iftikhar Ahmed Khan",
+        "Kadir aslam Sayid",
+        "Ahmed Khan",
+        "un taxista barcelonès d'origen senegalès"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1389",
+    "titular": "Rull, Turull i Sànchez demanen la nul·litat de la sentència per vulneració de drets fonamentals",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Jordi Sànchez",
+        "Jordi Turull",
+        "Josep Rull",
+        "Jordi Pina",
+        "Manuel Marchena"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1033",
+    "titular": "Aparcament dissuasiu i busos llançadora: el Parc Natural restringirà l'accés rodat a la punta del cap de Creus",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Ponç Feliu"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "963",
+    "titular": "‘Aquí continuem en peu de lluita’, carta d’August Gil Matamala a Anna Gabriel",
+    "prediccion": {
+      "total_personas_mencionadas": 7,
+      "mujeres_mencionadas": [
+        "Anna Gabriel",
+        "la Maribel"
+      ],
+      "hombres_mencionados": [
+        "August Gil Matamala",
+        "David Fernández",
+        "Olivier"
+      ],
+      "mujer_en_titular_o_apertura": true,
+      "roles_mujeres": [
+        {
+          "nombre": "Anna Gabriel",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "la Maribel",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "407",
+    "titular": "Països Catalans: Un any de resistència",
+    "prediccion": {
+      "total_personas_mencionadas": 12,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Mariano Rajoy",
+        "Pedro Sánchez",
+        "Carles Puigdemont",
+        "Roger Torrent",
+        "Jordi Sànchez",
+        "Jordi Turull",
+        "Quim Torra"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1284",
+    "titular": "Santa Eugènia de Berga denega tres dels permisos municipals demanats per la càrnica Grupo Jorge",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [
+        "Anna Franquesa"
+      ],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Anna Franquesa",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "1544",
+    "titular": "Maria del Mar Bonet celebra 50 anys als escenaris amb una gira i nou disc",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [
+        "Maria del Mar Bonet",
+        "Proactiva Open Arms",
+        "Fundació Toni Catany",
+        "Jordi Bianciotto"
+      ],
+      "hombres_mencionados": [
+        "Carles Puigdemont",
+        "Oriol Ferrer",
+        "Josep Maria Espinàs",
+        "José María Vitier",
+        "Jorge Reyes",
+        "Pancho Amat",
+        "José Luis Cortés",
+        "Quico Pi de la Serra"
+      ],
+      "mujer_en_titular_o_apertura": true,
+      "roles_mujeres": [
+        {
+          "nombre": "Maria del Mar Bonet",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Proactiva Open Arms",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Fundació Toni Catany",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Jordi Bianciotto",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "2393",
+    "titular": "Els lletrats defensen que el reglament no preveu el vot delegat per als diputats electes a presó i a Brussel·les",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [
+        "Carme Forcadell"
+      ],
+      "hombres_mencionados": [
+        "Pablo Llarena",
+        "Ernest Maragall"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Carme Forcadell",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "2104",
+    "titular": "El sector català de carn porcina produeix el 44% del total de l'estat espanyol amb 1,6 milions de tones a l'any",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Alberto Pezzi",
+        "Eudald Casas"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1258",
+    "titular": "Desarticulada una banda de «narcos» a la Costa Brava",
+    "prediccion": {
+      "total_personas_mencionadas": 0,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "25",
+    "titular": "Cuina de confinament (7): l’art de saber salar",
+    "prediccion": {
+      "total_personas_mencionadas": 0,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2942",
+    "titular": "El Suprem confirma un any de presó per un mosso de Badalona que va gravar 17 companyes al vestidor amb càmera oculta",
+    "prediccion": {
+      "total_personas_mencionadas": 2,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "el mosso d'Esquadra",
+        "l'agent I.P.S."
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2760",
+    "titular": "COMUNICAT:HM CIOCC Barcelona lidera un projecte de l'ISCIII per estudiar les resistències al tractament del càncer de pulmó",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Jordi Remon"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "997",
+    "titular": "Tornen els mestres",
+    "prediccion": {
+      "total_personas_mencionadas": 13,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Ramon Barnils",
+        "Xavier Vinader",
+        "Joan Fuster",
+        "Carles Puigdemont",
+        "Josep-Lluís Carod-Rovira",
+        "David Fernández",
+        "Ferran Garcia-Oliver",
+        "Francesc Viadel",
+        "Jan Brugueras"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2850",
+    "titular": "La CUP convida Podem a \"defensar les urnes\": \"No ens poden demanar que anem a no sé on a renunciar a l'1-O\"",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [
+        "Anna Gabriel"
+      ],
+      "hombres_mencionados": [
+        "Pablo Iglesias",
+        "Ferran Bel",
+        "Eduardo Cáliz",
+        "Miquel Iceta",
+        "Pedro Sánchez",
+        "Mariano Rajoy"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Anna Gabriel",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "1466",
+    "titular": "​«Votarem»: el clam a favor del referèndum acapara la Mercè",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [
+        "Mercedes Vidal",
+        "Ada Colau",
+        "Carme Forcadell"
+      ],
+      "hombres_mencionados": [
+        "Joan Josep Omella",
+        "Carles Puigdemont",
+        "Enric Millo",
+        "Fernando Aznar Ladrón de Guevara",
+        "Joaquim Forn",
+        "Alfred Bosch",
+        "Alberto Fernández Díaz"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Mercedes Vidal",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Ada Colau",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Carme Forcadell",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "988",
+    "titular": "La Mercè programa cinc-cents actes amb aforament limitat i reserva prèvia",
+    "prediccion": {
+      "total_personas_mencionadas": 5,
+      "mujeres_mencionadas": [
+        "Custodia Moreno Rivero",
+        "Ada Colau"
+      ],
+      "hombres_mencionados": [
+        "Jordi Martí",
+        "Jordi Fàbregas"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Custodia Moreno Rivero",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Ada Colau",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "325",
+    "titular": "Albert Rivera deixa la política després d’un fracàs polític estrepitós",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [
+        "Inés Arrimadas"
+      ],
+      "hombres_mencionados": [
+        "Albert Rivera",
+        "Luis Garicano",
+        "Toni Roldán",
+        "Javier Nart",
+        "Francesc de Carreras",
+        "Xavier Pericay",
+        "Pedro Sánchez"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Inés Arrimadas",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1450",
+    "titular": "​El govern Colau reclama als nous urbans prioritzar intel·ligència sobre força",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [
+        "Ada Colau"
+      ],
+      "hombres_mencionados": [
+        "Amadeu Recasens",
+        "Jordi Samsó",
+        "Evelio Vázquez"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Ada Colau",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2515",
+    "titular": "Sabadell homenatja els policies morts el 1990 amb un record extensiu a totes les víctimes del terrorisme",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [
+        "Isabel Martín"
+      ],
+      "hombres_mencionados": [
+        "Jorge Fernández Díaz",
+        "Jordi Jané",
+        "José Vargas",
+        "Artur Mas",
+        "Juli Fernández",
+        "Miguel Marcos"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Isabel Martín",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "379",
+    "titular": "Mollerussa s’apunta al Black Friday",
+    "prediccion": {
+      "total_personas_mencionadas": 5,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Marc Solsona",
+        "Àlex Català",
+        "Josep Antón Gaya",
+        "J.A. Gaya"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "549",
+    "titular": "El Tribunal de Comptes exigeix més de cinc milions a Artur Mas pel 9-N",
+    "prediccion": {
+      "total_personas_mencionadas": 13,
+      "mujeres_mencionadas": [
+        "Irene Rigau",
+        "Joana Ortega",
+        "Carolina Pardo",
+        "Josefina Valls",
+        "Maria de Los Llanos Castellanos"
+      ],
+      "hombres_mencionados": [
+        "Artur Mas",
+        "Francesc Homs",
+        "Jordi Serra",
+        "Jordi Vilajoana",
+        "Ignasi Genovès",
+        "Lluís Bertran",
+        "Jaume Domingo"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Irene Rigau",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Joana Ortega",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Carolina Pardo",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Josefina Valls",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Maria de Los Llanos Castellanos",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1003",
+    "titular": "La Generalitat demana quatre anys de presó per aldarulls en la investidura fallida de Puigdemont",
+    "prediccion": {
+      "total_personas_mencionadas": 5,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Carles Puigdemont",
+        "Quim Torra",
+        "Miquel Buch",
+        "un jove",
+        "un home"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "757",
+    "titular": "El paper del secretari municipal, l’únic dubte del procés del referèndum",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [
+        "Núria Parlon"
+      ],
+      "hombres_mencionados": [
+        "Jordi Ballart",
+        "Jaume Asens",
+        "Gerardo Pisarello"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Núria Parlon",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "1161",
+    "titular": "Santander, CaixaBank i Bankia cobraran 1.350 milions de l'Estat pel Castor",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Florentino Pérez",
+        "Mariano Rajoy"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "777",
+    "titular": "Es reprèn el judici al 9-N i continuen declarant els testimonis de l’acusació",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [
+        "Joana Ortega",
+        "Irene Rigau",
+        "Montserrat Llobet"
+      ],
+      "hombres_mencionados": [
+        "Artur Mas",
+        "Josep Alsina",
+        "Jordi Pina",
+        "Jesús Rull",
+        "Francesc Güell"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Joana Ortega",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Irene Rigau",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Montserrat Llobet",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "975",
+    "titular": "Desintoxicació: Per què ERC i JxCat no poden governar sense suport de tercers a la Diputació de Barcelona ni es poden desfer els pactes municipals",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [
+        "Núria Marín"
+      ],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Núria Marín",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "266",
+    "titular": "Mas defensa que no es van desviar fons públics per fer el 9-N",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Artur Mas",
+        "Manuel Villalobos",
+        "Miguel Ángel Torres Morato",
+        "Rafael Entrena"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2344",
+    "titular": "Asens diu que sense l'acord de govern amb Podem, el PSOE no hauria negociat amb ERC",
+    "prediccion": {
+      "total_personas_mencionadas": 5,
+      "mujeres_mencionadas": [
+        "Ada Colau",
+        "Jéssica Albiach"
+      ],
+      "hombres_mencionados": [
+        "Jaume Asens"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Ada Colau",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Jéssica Albiach",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "647",
+    "titular": "J.M.Forné: davant la humiliació, dignitat; davant la por, esperança",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [
+        "Elsa Artadi"
+      ],
+      "hombres_mencionados": [
+        "Carles Puigdemont",
+        "Miquel Iceta",
+        "Àngel Ros",
+        "Eduard Pujol",
+        "Josep Rull",
+        "Josep M. Forné",
+        "Marc Solsona",
+        "Xavier Quinquillà",
+        "Rajoy"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Elsa Artadi",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "2307",
+    "titular": "La sobrepoblació al Ripollès per part de persones de segones residències \"posa en risc\" els serveis bàsics de la comarca",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [
+        "Mònica Santjaume"
+      ],
+      "hombres_mencionados": [
+        "Xavier Guitart",
+        "Joaquim Colomer",
+        "Xavi Guitart"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Mònica Santjaume",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "1010",
+    "titular": "Desactiven una bomba davant el prostíbul de la Jonquera",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [
+        "Marina López",
+        "Sònia Martínez"
+      ],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Marina López",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Sònia Martínez",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "42",
+    "titular": "El gran compromís incomplert de Sánchez: un any més de llei mordassa i amb avís d’Europa",
+    "prediccion": {
+      "total_personas_mencionadas": 7,
+      "mujeres_mencionadas": [
+        "Mireia Vehí",
+        "Ana María Botella"
+      ],
+      "hombres_mencionados": [
+        "Pedro Sánchez",
+        "Juan Carlos Campo",
+        "Jaume Asens"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Mireia Vehí",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Ana María Botella",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "1696",
+    "titular": "Matx de reivindicació",
+    "prediccion": {
+      "total_personas_mencionadas": 20,
+      "mujeres_mencionadas": [
+        "Núria Julià",
+        "Joana Ortega"
+      ],
+      "hombres_mencionados": [
+        "Johan Cruyff",
+        "Artur Mas",
+        "Andreu Subies",
+        "Ferran Duran",
+        "Xavier Trias",
+        "Ferran Mascarell",
+        "Salvador Esteve",
+        "Germà Gordó",
+        "Ivan Tibau",
+        "Carles Puyol",
+        "Valdés",
+        "Juste",
+        "Piqué",
+        "Fontàs",
+        "Didac Vilà",
+        "Xavi",
+        "Busquets",
+        "Cesc",
+        "Coro",
+        "Bojan",
+        "Sergio García",
+        "Raül",
+        "Montoya",
+        "Muniesa",
+        "Roberto",
+        "Cuenca",
+        "Vázquez",
+        "Verdú",
+        "Amat",
+        "Roger Garcia",
+        "Bojan Krkic"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Núria Julià",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Joana Ortega",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "2687",
+    "titular": "Valls celebra els Tres Tombs amb gairebé 300 cavalls i un centenar de carros i cavalleries",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Marc Buqué"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1897",
+    "titular": "Menys d'un terç dels catòlics catalans marquen la casella de l'Església a l'IRPF",
+    "prediccion": {
+      "total_personas_mencionadas": 0,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2439",
+    "titular": "UP alerta que la greu sequera pot fer perdre a Catalunya la meitat de collites de vinya, fruita seca, olivera i pastures",
+    "prediccion": {
+      "total_personas_mencionadas": 0,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "426",
+    "titular": "Paul Preston ironitza de ser català “xarnego” en la investidura com a Honoris causa",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Paul Preston",
+        "Hilari Raguer",
+        "Eugene Garfield",
+        "Antoni Gaudí",
+        "Francesc Cambó",
+        "Juan Marsé",
+        "Eduardo Mendoza",
+        "Manuel Vázquez Montalbán",
+        "Borja de Riquer",
+        "Josep Fontana",
+        "Josep Termes",
+        "Joan Villarroya",
+        "Cristóbal Urbano"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "185",
+    "titular": "Decàleg del republicanisme rabassaire",
+    "prediccion": {
+      "total_personas_mencionadas": 2,
+      "mujeres_mencionadas": [
+        "Montserrat Tura"
+      ],
+      "hombres_mencionados": [
+        "Àlex Asensio"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Montserrat Tura",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "1987",
+    "titular": "L'onada de calor serà més general a tot arreu dilluns i dimarts",
+    "prediccion": {
+      "total_personas_mencionadas": 0,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1501",
+    "titular": "Catalunya és on menys s'inverteix en educació d'Europa",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Jaume Palacin",
+        "Xavier Martínez-Celorrio",
+        "Miquel Puig",
+        "Jordi Nomen"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "156",
+    "titular": "ERC i JxCat enllesteixen un primer acord sobre els grups de coordinació del govern",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [
+        "Laura Borràs",
+        "Laura Vilagrà",
+        "Elsa Artadi"
+      ],
+      "hombres_mencionados": [
+        "Pere Aragonès"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Laura Borràs",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Laura Vilagrà",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Elsa Artadi",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "2008",
+    "titular": "Professionals de la infermeria constaten que dormir poc incrementa la mortalitat dels pacients hospitalitzats",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [
+        "Montserrat Gea"
+      ],
+      "hombres_mencionados": [
+        "Miquel Àngel Calderó"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Montserrat Gea",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "1274",
+    "titular": "Només CiU ho celebra",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [
+        "Alicia Sánchez-Camacho"
+      ],
+      "hombres_mencionados": [
+        "Artur Mas",
+        "Joaquim Nadal",
+        "Jordi Pujol",
+        "Joan Herrera",
+        "Joan Puigcercós",
+        "Uriel Bertran",
+        "Jordi Cañas",
+        "Oriol Pujol"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Alicia Sánchez-Camacho",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2031",
+    "titular": "Vidal culpa la llei d'estabilitat pressupostària votada per CiU de les dificultats per tancar el conveni de metro",
+    "prediccion": {
+      "total_personas_mencionadas": 9,
+      "mujeres_mencionadas": [
+        "Mercedes Vidal",
+        "María José Lecha"
+      ],
+      "hombres_mencionados": [
+        "Joaquim Forn",
+        "Santiago Alonso",
+        "Jordi Coronas",
+        "Javier Mulleras"
+      ],
+      "mujer_en_titular_o_apertura": true,
+      "roles_mujeres": [
+        {
+          "nombre": "Mercedes Vidal",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "María José Lecha",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "210",
+    "titular": "La Ruta Eulalienca, un passeig per la Barcelona llegendària",
+    "prediccion": {
+      "total_personas_mencionadas": 2,
+      "mujeres_mencionadas": [
+        "santa Eulàlia"
+      ],
+      "hombres_mencionados": [
+        "Joan Amades"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "santa Eulàlia",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1889",
+    "titular": "Puigdemont, detingut i traslladat a la presó de Neumünster, al nord d'Alemanya",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Carles Puigdemont",
+        "J. Alonso-Cuevillas",
+        "Pablo Llarena",
+        "Eduard Piera Secall",
+        "Torrent"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1486",
+    "titular": "Torra desa al calaix la petició de 5.000 milions al MEDE que Aragonès no compartia",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Quim Torra",
+        "Pedro Sánchez",
+        "Pere Aragonès",
+        "Klaus Regling",
+        "Arcadi Oliveres",
+        "David Garrofé",
+        "Emili Ferrer"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2918",
+    "titular": "Torra: \"No ens hem de quedar amb la repressió i la resistència de l'1-O, sinó amb la imatge de la victòria\"",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [
+        "Carmela Fortuny"
+      ],
+      "hombres_mencionados": [
+        "Quim Torra"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Carmela Fortuny",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "1634",
+    "titular": "Els oasis de la mar",
+    "prediccion": {
+      "total_personas_mencionadas": 0,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1773",
+    "titular": "Puigdemont recorda a Rajoy que la «promesa» que espera Catalunya és «poder votar»",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [
+        "Neus Munté"
+      ],
+      "hombres_mencionados": [
+        "Carles Puigdemont",
+        "Mariano Rajoy"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Neus Munté",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "819",
+    "titular": "Més de 3.000 persones es manifesten a Tarragona per a demanar més seguretat a les petroquímiques",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [
+        "Ana María Bilbao"
+      ],
+      "hombres_mencionados": [
+        "Miguel Corral",
+        "Joan Llort",
+        "Ricomà"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Ana María Bilbao",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1939",
+    "titular": "Barcelona màgica",
+    "prediccion": {
+      "total_personas_mencionadas": 7,
+      "mujeres_mencionadas": [
+        "Joana Grau",
+        "Rosa Maria Llop"
+      ],
+      "hombres_mencionados": [
+        "Joaquim Partagàs",
+        "Carles Bucheli",
+        "Josep Maria Martínez",
+        "Joan Forns i Jordana",
+        "Antoni Rovira i Ferrer"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Joana Grau",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Rosa Maria Llop",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "515",
+    "titular": "El Consell podrà multar els comerços que no respecten els drets lingüístics",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [
+        "la funcionària de correus de Petrer"
+      ],
+      "hombres_mencionados": [
+        "Rafael Climent",
+        "Manuel Carceller"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "la funcionària de correus de Petrer",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "723",
+    "titular": "Els usuaris de les biblioteques tindran descomptes en l’oferta cultural de tot Catalunya a partir del 2016",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Ferran Mascarell"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "811",
+    "titular": "La plaça Josefina López del Grau comptarà amb escenari, zona d’ombra, jocs i dues àrees de gimnàstica per a potenciar el seu ús públic",
+    "prediccion": {
+      "total_personas_mencionadas": 5,
+      "mujeres_mencionadas": [
+        "Josefina López Sanmartín",
+        "Amparo Marco",
+        "Ali Brancal"
+      ],
+      "hombres_mencionados": [
+        "Rafa Simó"
+      ],
+      "mujer_en_titular_o_apertura": true,
+      "roles_mujeres": [
+        {
+          "nombre": "Josefina López Sanmartín",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Amparo Marco",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Ali Brancal",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2946",
+    "titular": "La bretxa digital creix a Barcelona: les ofertes augmenten un 40% i el talent només un 7,5%",
+    "prediccion": {
+      "total_personas_mencionadas": 0,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2479",
+    "titular": "PERFIL: Pedro Sánchez, de diputat ras a secretari general destronat",
+    "prediccion": {
+      "total_personas_mencionadas": 19,
+      "mujeres_mencionadas": [
+        "Trinidad Jiménez",
+        "Elena Valenciano",
+        "Susana Díaz"
+      ],
+      "hombres_mencionados": [
+        "Pedro Sánchez Pérez-Castejón",
+        "José Luis Rodríguez Zapatero",
+        "Alfredo Pérez Rubalcaba",
+        "Eduardo Madina",
+        "José Antonio Pérez Tapias",
+        "José Blanco",
+        "Pedro Solbes",
+        "Ramon Jáuregui",
+        "Miguel Sebastián",
+        "Mariano Rajoy",
+        "Felipe González"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Trinidad Jiménez",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Elena Valenciano",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Susana Díaz",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1593",
+    "titular": "Les malalties de transmissió sexual es disparen: un 300% la sífilis i un 600% la clamídia",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Joan Guix"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1505",
+    "titular": "Mesures extraordinàries del Govern per garantir la mobilitat per la Diada",
+    "prediccion": {
+      "total_personas_mencionadas": 0,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "818",
+    "titular": "El govern i els partits de l’Espai de Diàleg pacten de continuar a la taula tot i la repressió, el judici i les eleccions",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [
+        "Elsa Artadi",
+        "Jèssica Albiach"
+      ],
+      "hombres_mencionados": [
+        "Quim Torra",
+        "Pedro Sánchez",
+        "Miquel Iceta",
+        "Pere Aragonès",
+        "Sergi Sabrià",
+        "Albert Batet"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Elsa Artadi",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Jèssica Albiach",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2390",
+    "titular": "Els propietaris forestals del Berguedà alerten que una nova plaga de processionària podria matar gran part dels boscos",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [
+        "Natàlia Font"
+      ],
+      "hombres_mencionados": [
+        "Josep Altarriba",
+        "Pont"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Natàlia Font",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "295",
+    "titular": "El senat no reduirà el nombre de senadors territorials del País Valencià",
+    "prediccion": {
+      "total_personas_mencionadas": 9,
+      "mujeres_mencionadas": [
+        "Maribel Mora"
+      ],
+      "hombres_mencionados": [
+        "José Manuel Barreiro",
+        "Óscar López",
+        "Josep Lluís Cleries",
+        "Santiago Vidal",
+        "Jokin Bildarratz",
+        "Luis Crisol"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Maribel Mora",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "1115",
+    "titular": "Patinada a Twitter del diputat de Cs Toni Cantó",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Toni Cantó",
+        "Felip VI",
+        "Risto Mejide",
+        "Arcángel",
+        "Joan Ribó"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2907",
+    "titular": "Vermuts electrònics online i festivals drag, algunes de les opcions per fer front al confinament per coronavirus",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [
+        "Muerta Sánchez",
+        "Sílfide",
+        "Sharonne",
+        "Luna diva",
+        "Dramas de honor"
+      ],
+      "hombres_mencionados": [
+        "Fran Cabrera"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Muerta Sánchez",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Sílfide",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Sharonne",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Luna diva",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Dramas de honor",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "19",
+    "titular": "Les rajoles hidràuliques d’un jove català que han fet la volta al món",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Joan Juncosa"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "885",
+    "titular": "Exhumen a Torelló l’esquelet d’un soldat republicà afusellat a les acaballes de la guerra del 36-39",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [
+        "Núria Armentano"
+      ],
+      "hombres_mencionados": [
+        "Xavier Vilà",
+        "Josep Bertrina",
+        "Miquel Puig",
+        "Toni Prat",
+        "el soldat republicà"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Núria Armentano",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2297",
+    "titular": "La programació digital del Teatre Lliure creix amb una comèdia documental i la versió familiar de 'Terra Baixa'",
+    "prediccion": {
+      "total_personas_mencionadas": 14,
+      "mujeres_mencionadas": [
+        "Mercè Sàrries",
+        "Mònica Glaenzel",
+        "Eli Iranzo",
+        "Maria Pau Pigem",
+        "Dulcinea (Paola Calasanz)",
+        "Itziar González",
+        "Nuri",
+        "Marta",
+        "Anna Alarcón"
+      ],
+      "hombres_mencionados": [
+        "Miguel Casamayor",
+        "Pau Miró",
+        "Fito Conesa",
+        "Àngel Guimerà",
+        "Lluís Homar",
+        "Daniel Agudo",
+        "John Ford",
+        "Pep Montes"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Mercè Sàrries",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Mònica Glaenzel",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Eli Iranzo",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Maria Pau Pigem",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Dulcinea (Paola Calasanz)",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Itziar González",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Nuri",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Marta",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Anna Alarcón",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1616",
+    "titular": "Mariona Carulla assegura que al Palau «ningú sabia» quant cobrava Millet",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [
+        "Mariona Carulla",
+        "Elisabet Barberà"
+      ],
+      "hombres_mencionados": [
+        "Fèlix Millet",
+        "Jordi Montull",
+        "Emilio Sánchez Ulled",
+        "Abraham Castro",
+        "Salvador Oller",
+        "Millet fill",
+        "Miquel Roca Junyent"
+      ],
+      "mujer_en_titular_o_apertura": true,
+      "roles_mujeres": [
+        {
+          "nombre": "Mariona Carulla",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Elisabet Barberà",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1935",
+    "titular": "Torra reclama un «diàleg sincer» a l'Estat després de la petició de reunió de Sánchez",
+    "prediccion": {
+      "total_personas_mencionadas": 8,
+      "mujeres_mencionadas": [
+        "Carme Forcadell",
+        "Júlia Casals"
+      ],
+      "hombres_mencionados": [
+        "Quim Torra",
+        "Jordi Cuixart",
+        "Roger Torrent",
+        "Marcel Mauri",
+        "Jordi Cabré",
+        "Cares Rebassa"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Carme Forcadell",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Júlia Casals",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "357",
+    "titular": "Cuixart, als socis d’Òmnium: ‘Les nostres condemnes els pesaran molt més a ells que a nosaltres’",
+    "prediccion": {
+      "total_personas_mencionadas": 5,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Jordi Cuixart",
+        "Jordi Sánchez",
+        "Manuel Delgado",
+        "Eduard Voltas",
+        "K. Liebknecht"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1308",
+    "titular": "Felip VI lloa els «valors constitucionals» de la justícia espanyola en plena crisi pel cas Puigdemont",
+    "prediccion": {
+      "total_personas_mencionadas": 8,
+      "mujeres_mencionadas": [
+        "Gema Espinosa"
+      ],
+      "hombres_mencionados": [
+        "Felip VI",
+        "Artur Mas",
+        "Carles Puigdemont",
+        "Carlos Lesmes",
+        "Pablo Llarena"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Gema Espinosa",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "1286",
+    "titular": "El nombre de menors atesos en centres de salut mental creix un 6,9% en un any",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [
+        "Anna Garcia-Altés",
+        "Cristina Molina"
+      ],
+      "hombres_mencionados": [
+        "Josep Antoni Ramos-Quiroga",
+        "doctor Garcia-Quiroga"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Anna Garcia-Altés",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Cristina Molina",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2566",
+    "titular": "Podem demana a l'Audiència de Madrid que anul·li la causa sobre el seu presumpte finançament irregular",
+    "prediccion": {
+      "total_personas_mencionadas": 5,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "José Manuel Calvente",
+        "Juan José Escalonilla",
+        "Pablo Iglesias",
+        "Juan Carlos Monedero"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2681",
+    "titular": "Pedro Sánchez s'imposa a Susana Díaz i Patxi López amb el 80% escrutat i recupera la secretaria general del PSOE",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [
+        "Susana Díaz",
+        "Carme Chacón"
+      ],
+      "hombres_mencionados": [
+        "Pedro Sánchez",
+        "Patxi López",
+        "Alfonso Rodriguez Gómez de Celis",
+        "Mariano Rajoy",
+        "José Bono",
+        "Alfredo Pérez Rubalcaba",
+        "Zapatero"
+      ],
+      "mujer_en_titular_o_apertura": true,
+      "roles_mujeres": [
+        {
+          "nombre": "Susana Díaz",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Carme Chacón",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "2434",
+    "titular": "La Fundació Antoni Tàpies subratlla la dècada més \"decisiva\" del pintor amb una extensa exposició",
+    "prediccion": {
+      "total_personas_mencionadas": 8,
+      "mujeres_mencionadas": [
+        "Núria Homs"
+      ],
+      "hombres_mencionados": [
+        "Antoni Tàpies",
+        "Michel Tapié",
+        "Rodolphe Stadler",
+        "Antonio Saura",
+        "Manolo Millares",
+        "Aziz Hazara"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Núria Homs",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "1864",
+    "titular": "El Pacte Nacional desplega el pla pel referèndum: reunions amb partits estatals, oficina tècnica i actes al carrer",
+    "prediccion": {
+      "total_personas_mencionadas": 7,
+      "mujeres_mencionadas": [
+        "Ada Colau",
+        "Carme Forcadell"
+      ],
+      "hombres_mencionados": [
+        "Joan Ignasi Elena",
+        "Carles Puigdemont",
+        "Gallego"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Ada Colau",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Carme Forcadell",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "978",
+    "titular": "Torra, sobre reactivar la DUI: ‘Estava disposat i preparat per arribar tan lluny com els partits i el govern volguessin’",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Quim Torra",
+        "Carles Puigdemont"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "618",
+    "titular": "Les colles castelleres i Òmnium Cultural creen un mocador groc per donar suport als presos polítics",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [
+        "Txell Bonet"
+      ],
+      "hombres_mencionados": [
+        "Marcel Mauri",
+        "Oriol Solà",
+        "Jordi Cuixart",
+        "Raül Romeva"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Txell Bonet",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1394",
+    "titular": "Sáenz de Santamaría, la sortida d'escena d'una «primera ministra»",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [
+        "Soraya Sáenz de Santamaría",
+        "María Dolores de Cospedal"
+      ],
+      "hombres_mencionados": [
+        "Mariano Rajoy",
+        "José Manuel Soria",
+        "Cèsar",
+        "Pablo Casado"
+      ],
+      "mujer_en_titular_o_apertura": true,
+      "roles_mujeres": [
+        {
+          "nombre": "Soraya Sáenz de Santamaría",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "María Dolores de Cospedal",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": 1379,
+    "titular": "Així s'aplica l'article 155",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Carles Puigdemont",
+        "Rajoy"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2749",
+    "titular": "El jutjat admet a tràmit la querella col·lectiva per les càrregues de l'1-O interposada pels tres ajuntaments gironins",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [
+        "Marta Madrenas"
+      ],
+      "hombres_mencionados": [
+        "Albert Carreras"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Marta Madrenas",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "148",
+    "titular": "No hi eren tots: només troben setze cossos a la fossa 21 de Paterna",
+    "prediccion": {
+      "total_personas_mencionadas": 5,
+      "mujeres_mencionadas": [
+        "Pilar Taberner",
+        "Luz Josefina Ferre",
+        "Rosa Pérez Garijo"
+      ],
+      "hombres_mencionados": [
+        "Vicent Gabarda"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Pilar Taberner",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Luz Josefina Ferre",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Rosa Pérez Garijo",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1132",
+    "titular": "Nova vaga de metro amb l'exigència de canvis a la direcció de TMB",
+    "prediccion": {
+      "total_personas_mencionadas": 8,
+      "mujeres_mencionadas": [
+        "Mercedes Vidal",
+        "Mònica Benito"
+      ],
+      "hombres_mencionados": [
+        "Enric Cañas",
+        "Jordi Gómez",
+        "David Vázquez",
+        "Ángel González"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Mercedes Vidal",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Mònica Benito",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2131",
+    "titular": "Seat va obtenir l'any passat els millors resultats de la seva història sense extraordinaris amb un benefici de 286 MEUR",
+    "prediccion": {
+      "total_personas_mencionadas": 2,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Luca de Meo",
+        "Matías Carnero"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2064",
+    "titular": "El Trueta fa 137 estudis d'anatomia patològica al dia per diagnosticar malalties o preveure la resposta als fàrmacs",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Eugeni López-Bonet",
+        "López-Bofill"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2413",
+    "titular": "Ripollet i Cerdanyola inauguren un monòlit per recordar les víctimes d'Uralita i \"fer visible el dolor\" que ha causat",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [
+        "Maite Martín",
+        "Esther Costa"
+      ],
+      "hombres_mencionados": [
+        "Jordi Andrés",
+        "Benedicto Martino",
+        "Carles Escolà"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Maite Martín",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Esther Costa",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2977",
+    "titular": "Albiol demana a Mas i Puigdemont que \"deixin de fer mal\" a Catalunya: \"Si tenen alternativa al procés, que la presentin\"",
+    "prediccion": {
+      "total_personas_mencionadas": 11,
+      "mujeres_mencionadas": [
+        "Dolors Montserrat",
+        "Alícia Sánchez-Camacho"
+      ],
+      "hombres_mencionados": [
+        "Xavier Garcia Albiol",
+        "Artur Mas",
+        "Carles Puigdemont",
+        "José Luis Ayllón",
+        "Santi Rodríguez",
+        "Alberto Fernández Díaz",
+        "Santiago Vidal"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Dolors Montserrat",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Alícia Sánchez-Camacho",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2708",
+    "titular": "Més de 500 establiments han obert a Olot en els últims quatre anys i el 94% han tingut èxit",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Estanis Vayreda"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "455",
+    "titular": "De debò que cal fer deu mil passes diàries?",
+    "prediccion": {
+      "total_personas_mencionadas": 0,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "654",
+    "titular": "Fem les maletes… digitals (3)",
+    "prediccion": {
+      "total_personas_mencionadas": 0,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1346",
+    "titular": "El 4 de Juliol més optimista",
+    "prediccion": {
+      "total_personas_mencionadas": 25,
+      "mujeres_mencionadas": [
+        "Tanya C. Anderson",
+        "Marta Pascal",
+        "Marta Rovira",
+        "Muriel Casals"
+      ],
+      "hombres_mencionados": [
+        "Josep Rull",
+        "Jordi Turull",
+        "Ramon Tremosa",
+        "Josep Maria Pelegrí",
+        "Salvador Sedó",
+        "Germà Gordó",
+        "Oriol Pujol Ferrusola",
+        "Carles Campuzano",
+        "Víctor Terradellas",
+        "Salvador Cardús",
+        "Joan B. Culla",
+        "Emilio Ablanedo Reyes",
+        "Alberto Fernández Díaz",
+        "Jaume Collboni",
+        "Gabriel Colomé",
+        "Gaspar de Portolà",
+        "Josep Sadoc Alemany"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Tanya C. Anderson",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Marta Pascal",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Marta Rovira",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Muriel Casals",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "871",
+    "titular": "Escurçar o alterar? Què implica avançar el referèndum si inhabiliten Forcadell",
+    "prediccion": {
+      "total_personas_mencionadas": 7,
+      "mujeres_mencionadas": [
+        "Carme Forcadell"
+      ],
+      "hombres_mencionados": [
+        "Carles Puigdemont",
+        "Oriol Junqueras",
+        "Carles Viver i Pi-Sunyer"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Carme Forcadell",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "829",
+    "titular": "La majoria independentista també es trencarà amb el decret de les renovables",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [
+        "Teresa Jordà",
+        "Jéssica Albiach",
+        "Alícia Romero"
+      ],
+      "hombres_mencionados": [
+        "Pere Aragonès"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Teresa Jordà",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Jéssica Albiach",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Alícia Romero",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1384",
+    "titular": "La barrera psicològica dels cinc milions d'aturats a l'Estat, rebentada",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Ramon Bonastre"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2191",
+    "titular": "Una \"iaia convergent de dretes a qui li cau un mite\" pel cas Pujol, protagonista de 'A tots els que heu vingut'",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [
+        "Mercè Arànega",
+        "Lurdes Barba",
+        "Montse Esteve",
+        "Àurea Márquez",
+        "Mireia Pàmies",
+        "Núria Feliu",
+        "Magda"
+      ],
+      "hombres_mencionados": [
+        "Marc Rosich",
+        "Xavier Albertí",
+        "Carles Gilabert",
+        "Jordi Pujol"
+      ],
+      "mujer_en_titular_o_apertura": true,
+      "roles_mujeres": [
+        {
+          "nombre": "Mercè Arànega",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Lurdes Barba",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Montse Esteve",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Àurea Márquez",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Mireia Pàmies",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Núria Feliu",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Magda",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2218",
+    "titular": "Iceta: \"Només els que estimen de veritat la Constitució volen reformar-la\"",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Miquel Iceta",
+        "Jordi Solé Tura",
+        "Adolfo Suárez",
+        "Emilio Cordero",
+        "Jordi Terradas"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2948",
+    "titular": "Red Eléctrica acaba la subestació de la MAT a Sant Julià de Ramis i entrarà en servei la primera quinzena de gener",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "José Ignacio Lallana"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "147",
+    "titular": "L’esborrany d’instruccions del curs 2017-18 no al·ludix al decret plurilingüe i permet robes religioses en els centres",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Vicent Marzà"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1713",
+    "titular": "Relleu sociovergent a Molins de Rei",
+    "prediccion": {
+      "total_personas_mencionadas": 15,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Joan Ramon Casals",
+        "Xavi Paz",
+        "Àlex Maymó",
+        "Ivan Arcas",
+        "Josep Rull",
+        "Lluís Maria Corominas",
+        "Salvador Esteve",
+        "Lluis Recoder",
+        "Joaquim Balsera",
+        "Josep Lluís Cleries",
+        "Antonio Poveda",
+        "Albert Batalla"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "870",
+    "titular": "Nomdedéu presenta el Panell de Govern Obert com a compromís del Govern amb la transparència",
+    "prediccion": {
+      "total_personas_mencionadas": 2,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Enric Nomdedéu",
+        "Manuel Alcaraz"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1778",
+    "titular": "Torra no accepta la suspensió dels diputats i no demanarà que deixin l'acta",
+    "prediccion": {
+      "total_personas_mencionadas": 7,
+      "mujeres_mencionadas": [
+        "Nicola Sturgeon",
+        "Ponsatí"
+      ],
+      "hombres_mencionados": [
+        "Quim Torra",
+        "Pablo Llarena",
+        "Pedro Sánchez",
+        "Felip VI",
+        "Aamer Anwar"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Nicola Sturgeon",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Ponsatí",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "413",
+    "titular": "Torra: ‘Fins ara sabíem què era fer un Tortosa, i ara ja sabem què és fer un Sant Cugat’",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [
+        "Carmela Fortuny"
+      ],
+      "hombres_mencionados": [
+        "Quim Torra"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Carmela Fortuny",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2200",
+    "titular": "El 66% de catalans majors de 59 anys creu que les pensions de les futures generacions no estan garantides",
+    "prediccion": {
+      "total_personas_mencionadas": 2,
+      "mujeres_mencionadas": [
+        "Mercedes Ayuso"
+      ],
+      "hombres_mencionados": [
+        "Luis Vadillo"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Mercedes Ayuso",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "169",
+    "titular": "El cirurgià Josep M. Greoles fa el pregó de les Festes de Sant Isidori de Mollerussa",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [
+        "Llucia Ramis"
+      ],
+      "hombres_mencionados": [
+        "Josep M. Greoles",
+        "Marc Solsona",
+        "Jordi Orobitg",
+        "Jordi Piqué",
+        "Joan Yeguas",
+        "Ramon Monfà"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Llucia Ramis",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1255",
+    "titular": "Els trabucaires ferits a Ripoll agraeixen «l'excel·lència» dels serveis mèdics i de seguretat",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Xavier Mas"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2742",
+    "titular": "Alpens s'erigeix aquest cap de setmana en la capital de la forja del sud d'Europa",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [
+        "Montse Barniol"
+      ],
+      "hombres_mencionados": [
+        "Enric Pla",
+        "Joan Prat",
+        "Angel Guimerà"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Montse Barniol",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "255",
+    "titular": "Gordó nega cap implicació en el finançament irregular de CDC",
+    "prediccion": {
+      "total_personas_mencionadas": 7,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Germà Gordó",
+        "Daniel Osàcar",
+        "Andreu Viloca",
+        "Artur Mas"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2286",
+    "titular": "Puigdemont i Junqueras acorden encarar la negociació amb la CUP sense acceptar tocar l'IRPF",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Carles Puigdemont",
+        "Oriol Junqueras"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "917",
+    "titular": "Albiach exigeix a ERC de ‘mirar al futur i menys a JxCat’",
+    "prediccion": {
+      "total_personas_mencionadas": 5,
+      "mujeres_mencionadas": [
+        "Jéssica Albiach"
+      ],
+      "hombres_mencionados": [
+        "Quim Torra",
+        "Joan Tardà",
+        "Pedro Sánchez"
+      ],
+      "mujer_en_titular_o_apertura": true,
+      "roles_mujeres": [
+        {
+          "nombre": "Jéssica Albiach",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "1092",
+    "titular": "Torra manté el llaç groc al Palau de la Generalitat i recorre l'ultimàtum de la Junta Electoral",
+    "prediccion": {
+      "total_personas_mencionadas": 8,
+      "mujeres_mencionadas": [
+        "Elsa Artadi",
+        "Laura Borràs",
+        "Meritxell Budó"
+      ],
+      "hombres_mencionados": [
+        "Quim Torra",
+        "Rafel Ribó"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Elsa Artadi",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Laura Borràs",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Meritxell Budó",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "813",
+    "titular": "L’actriu Susan Sarandon rebrà el Gran Premi Honorífic del Festival de Cinema de Sitges",
+    "prediccion": {
+      "total_personas_mencionadas": 19,
+      "mujeres_mencionadas": [
+        "Susan Sarandon",
+        "Nicole Kidman",
+        "Ana Lily Amirpour"
+      ],
+      "hombres_mencionados": [
+        "Santiago Segura",
+        "William Friedkin",
+        "Yorgos Lanthimos",
+        "Jaume Balagueró",
+        "Albert Sánchez Piñol",
+        "Colin Farrell",
+        "Kornél Munduczó",
+        "Guillermo Amoedo",
+        "Nicolás López",
+        "Jonathan Milott",
+        "Cary Murnion",
+        "Alexandre O. Philippe",
+        "Alfred Hitchcook",
+        "Gerardo Herrero",
+        "Andrés Goteria",
+        "Masaaki Yuasa",
+        "Àngel Sala",
+        "Jordi Ojeda",
+        "Bong Joon-ho"
+      ],
+      "mujer_en_titular_o_apertura": true,
+      "roles_mujeres": [
+        {
+          "nombre": "Susan Sarandon",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Nicole Kidman",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Ana Lily Amirpour",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "705",
+    "titular": "Investigadors catalans descobreixen una superterra freda orbitant l’estrella de Barnard",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Ignasi Ribas",
+        "Guillem Anglada-Escudé"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1412",
+    "titular": "CiU vol que la violència contra prostitutes es consideri de gènere",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [
+        "Lourdes Ciurò"
+      ],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Lourdes Ciurò",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2656",
+    "titular": "L'Audiència rebaixa la condemna al caporal de la Guàrdia Urbana de Figueres que va amenaçar de mort l'alcaldessa",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [
+        "Marta Felip"
+      ],
+      "hombres_mencionados": [
+        "caporal de la Guàrdia Urbana de Figueres",
+        "el jutge",
+        "el cap de Recursos Humans",
+        "l'inspector",
+        "el sotsinspector",
+        "un sergent",
+        "l'advocat Jordi Colomer"
+      ],
+      "mujer_en_titular_o_apertura": true,
+      "roles_mujeres": [
+        {
+          "nombre": "Marta Felip",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2329",
+    "titular": "Aprovat el Pla director urbanístic dels càmpings a l'Aran",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Agustí Serra"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2727",
+    "titular": "Juncker fa una crida a \"lluitar contra els extremistes amb fets\" i demana \"unitat\" per a un futur \"millor\" per a la UE",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Jean-Claude Juncker",
+        "Donald Tusk",
+        "David Cameron",
+        "Antonio Tajani",
+        "Pedro Sánchez"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "499",
+    "titular": "Neix Quid Pro Quo, el nou segell del Gall Editor per acostar la gran literatura internacional als lectors en català",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [
+        "Maria do Rosário Pedreira",
+        "Dolors Udina",
+        "Marta Marfany"
+      ],
+      "hombres_mencionados": [
+        "Gracià Sànchez",
+        "Antoni Xumet",
+        "Lobo Antunes",
+        "Cardoso Pires",
+        "Eça de Queiroz",
+        "Alberto Manguel",
+        "Édouard Levé",
+        "Yasushi Inoue",
+        "Jean Cocteau",
+        "Toni Clapés"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Maria do Rosário Pedreira",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Dolors Udina",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Marta Marfany",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1601",
+    "titular": "​#LliuresISensePor contra la violència sexual",
+    "prediccion": {
+      "total_personas_mencionadas": 0,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "405",
+    "titular": "Quatre anys del 17-A: un homenatge marcat per un judici molt insuficient",
+    "prediccion": {
+      "total_personas_mencionadas": 14,
+      "mujeres_mencionadas": [
+        "Ada Colau",
+        "Laura Borràs",
+        "Raquel Sánchez",
+        "Teresa Cunillera"
+      ],
+      "hombres_mencionados": [
+        "Mohamed Houli",
+        "Driss Oukabir",
+        "Said Ben Iazza",
+        "Younes",
+        "Younes Abouyaaqoub",
+        "Pere Aragonès",
+        "Joan Ignasi Elena",
+        "Josep Maria Argimon",
+        "Jordi Munell"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Ada Colau",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Laura Borràs",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Raquel Sánchez",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Teresa Cunillera",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "658",
+    "titular": "Avui fa 25 anys de la fundació del diari Egunkaria: un repàs contra l’oblit",
+    "prediccion": {
+      "total_personas_mencionadas": 25,
+      "mujeres_mencionadas": [
+        "Inma Gomila",
+        "Gabriela Serra",
+        "Isabel-Clara Simó"
+      ],
+      "hombres_mencionados": [
+        "Martxelo Otamendi",
+        "Juan del Olmo",
+        "Iñaki Uria",
+        "Juan Mari Torrealdai",
+        "Peio Zubiria",
+        "Luis Goia",
+        "Fermin Lazkano",
+        "Xabier Alegría",
+        "Xabier Oleaga",
+        "Txema Auzmendi",
+        "Mikel Arrizabalaga",
+        "Angel Diez",
+        "Armando Hernández",
+        "Mikel Sorozabal",
+        "Joxe Mari Sors",
+        "Mikel Azkune",
+        "Joanmari Larrarte",
+        "Xabier Legarra",
+        "Vicent Partal",
+        "Xavier Giró",
+        "Salvador Cardús",
+        "Aureli Argemí",
+        "Pere Martí",
+        "Antoni Batista",
+        "Toni Strubell",
+        "Xavi Sarrià",
+        "Vicent Sanchis"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Inma Gomila",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Gabriela Serra",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Isabel-Clara Simó",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1852",
+    "titular": "Comptabilitat, mòbils i correus confiscats: així ha estat l'escorcoll a la seu d'Òmnium",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [
+        "Soraya Sáenz de Santamaría"
+      ],
+      "hombres_mencionados": [
+        "Marcel Mauri",
+        "Jordi Cuixart",
+        "Carles Riera"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Soraya Sáenz de Santamaría",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2940",
+    "titular": "La nova Biblioteca Municipal de Manlleu obrirà les portes aquest divendres a l'edifici del BBVA de la plaça Fra Bernadí",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [
+        "Núria Silvestre"
+      ],
+      "hombres_mencionados": [
+        "Àlex Garrido",
+        "Jordi Puntí",
+        "Agustí Palomares",
+        "Daniel Guardiola"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Núria Silvestre",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "1647",
+    "titular": "Òmnium, a Sánchez: «Vostè té un problema, que es diu 80%»",
+    "prediccion": {
+      "total_personas_mencionadas": 7,
+      "mujeres_mencionadas": [
+        "Montse Puigdemont",
+        "Elisenda Paluzie",
+        "Gabriela Serra"
+      ],
+      "hombres_mencionados": [
+        "Marcel Mauri",
+        "Pedro Sánchez",
+        "Josep Tarradellas",
+        "Carles Puigdemont"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Montse Puigdemont",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Elisenda Paluzie",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Gabriela Serra",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "2451",
+    "titular": "Els MIR amenacen amb una nova vaga la setmana que ve de cinc dies si no obtenen millores formatives i laborals",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Àlex Mayer"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1582",
+    "titular": "Budó retreu a Torrent que no li hagi comunicat la data de les eleccions: «No és normal»",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [
+        "Meritxell Budó",
+        "Laura Borràs"
+      ],
+      "hombres_mencionados": [
+        "Roger Torrent",
+        "Quim Torra",
+        "Josep Cuní",
+        "Pere Aragonès",
+        "Carles Puigdemont",
+        "Damià Calvet",
+        "Jordi Puigneró",
+        "Ramon Tremosa"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Meritxell Budó",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Laura Borràs",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2013",
+    "titular": "Arrimadas a Puigdemont: \"Que s'oblidi de ser president.",
+    "prediccion": {
+      "total_personas_mencionadas": 5,
+      "mujeres_mencionadas": [
+        "Inés Arrimadas"
+      ],
+      "hombres_mencionados": [
+        "Carles Puigdemont",
+        "José Maria Espejo-Saavedra"
+      ],
+      "mujer_en_titular_o_apertura": true,
+      "roles_mujeres": [
+        {
+          "nombre": "Inés Arrimadas",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "18",
+    "titular": "Ken Loach: ‘No passaran!’",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [
+        "una intèrpret",
+        "una actriu veneçolana"
+      ],
+      "hombres_mencionados": [
+        "Esteve Riambau",
+        "Xavier Montanyà",
+        "Ken Loach",
+        "un hombre menut"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "una intèrpret",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "una actriu veneçolana",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "582",
+    "titular": "La regidoria d’Igualtat presenta la jornada ‘Juga el teu paper per aturar la violència masclista’, que tindrà lloc aquest divendres 18 al Passadís de les Arts",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [
+        "Ali Brancal",
+        "Reyes Santamaría"
+      ],
+      "hombres_mencionados": [
+        "Ignasi Garcia"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Ali Brancal",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Reyes Santamaría",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "1025",
+    "titular": "Les territorials de la CUP es reuneixen per debatre sobre la investidura de Mas",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [
+        "Eulàlia Reguant"
+      ],
+      "hombres_mencionados": [
+        "Artur Mas",
+        "Biel de Montserrat"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Eulàlia Reguant",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2851",
+    "titular": "Sáenz de Santamaría acusa els independentistes d'utilitzar un discurs \"absolutista\" i vulnerar \"els drets individuals\"",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [
+        "Soraya Sáenz de Santamaría"
+      ],
+      "hombres_mencionados": [
+        "Joan Tardà",
+        "Pablo Casado",
+        "Gabriel Rufián",
+        "el jutge Vidal",
+        "el senyor Mas"
+      ],
+      "mujer_en_titular_o_apertura": true,
+      "roles_mujeres": [
+        {
+          "nombre": "Soraya Sáenz de Santamaría",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2387",
+    "titular": "IrsiCaixa defineix la primera seqüència consens del coronavirus per estudiar la immunitat amb el màxim detall",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [
+        "Julia G. Prado"
+      ],
+      "hombres_mencionados": [
+        "Christian Brander",
+        "Alex Olvera",
+        "Marc Noguera-Julian"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Julia G. Prado",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "883",
+    "titular": "Najat El Hachmi: ‘L’escriptura em serveix per a pal·liar l’enyorança de l’amazic i d’allò que és propi de la meva infantesa’",
+    "prediccion": {
+      "total_personas_mencionadas": 2,
+      "mujeres_mencionadas": [
+        "Najat El Hachmi"
+      ],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": true,
+      "roles_mujeres": [
+        {
+          "nombre": "Najat El Hachmi",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2383",
+    "titular": "Cs demana la compareixença de Buch i tres comandaments dels Mossos per aclarir \"punts foscos\" del 17-A",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [
+        "Inés Arrimadas"
+      ],
+      "hombres_mencionados": [
+        "Carlos Carrizosa",
+        "Miquel Buch",
+        "Manel Castellví",
+        "Lluís Paradell",
+        "Daniel Canals",
+        "Albert Rivera",
+        "Puigdemont",
+        "Torra"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Inés Arrimadas",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1481",
+    "titular": "Pujol: «Allò que minva el lideratge de Mas, minva la força del moviment»",
+    "prediccion": {
+      "total_personas_mencionadas": 11,
+      "mujeres_mencionadas": [
+        "Patricia Mateos",
+        "Marta Ferrusola",
+        "Núria de Gispert"
+      ],
+      "hombres_mencionados": [
+        "Jordi Pujol",
+        "Artur Mas",
+        "Oriol Pujol",
+        "Joan Rigol",
+        "Felip Puig",
+        "Jordi Turull"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Patricia Mateos",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Marta Ferrusola",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Núria de Gispert",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "2714",
+    "titular": "El Festival de Llegendes de Catalunya planta cara a la covid-19 i aconsegueix reunir més d'un miler de visitants",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [
+        "Cristina Vidal"
+      ],
+      "hombres_mencionados": [
+        "Víctor Borràs",
+        "Jordi Pijoan"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Cristina Vidal",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1174",
+    "titular": "La gala dels VI Premis Gaudí ja escalfa motors",
+    "prediccion": {
+      "total_personas_mencionadas": 35,
+      "mujeres_mencionadas": [
+        "Mar Coll",
+        "Neus Ballús",
+        "Jordi Cadena",
+        "Nora Navas",
+        "Candela Peña",
+        "Vicky Peña",
+        "Ingrid Rubio",
+        "Valentina Viso",
+        "Eva Vila",
+        "Laura Mañá",
+        "Carmen Machi",
+        "Maria Molins",
+        "Àgata Roca",
+        "Clara Segura",
+        "Margarethe von Trotta"
+      ],
+      "hombres_mencionados": [
+        "Quim Gutiérrez",
+        "David Pastor",
+        "Àlex Pastor",
+        "Àngel Llàcer",
+        "Jesús Monllaó Plana",
+        "Eugenio Mira",
+        "Javier Cámara",
+        "Eduard Fernández",
+        "José Sacristán",
+        "David Solans",
+        "Eric Navarro",
+        "Eduard Sola",
+        "Daniel González",
+        "Sergio Barrejón",
+        "Pau Subirós",
+        "Albert Solé",
+        "Marcel Barrena",
+        "Francesc Relea",
+        "Agustí Villaronga",
+        "Abel Folk",
+        "Joan Riedweg",
+        "Lluís M. Güell",
+        "José Coronado",
+        "Pau Durà",
+        "Sergi López",
+        "Ramon Madaula",
+        "Michael Haneke",
+        "Fernando Franco",
+        "Abdellatif Kechiche"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Mar Coll",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Neus Ballús",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Jordi Cadena",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Nora Navas",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Candela Peña",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Vicky Peña",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Ingrid Rubio",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Valentina Viso",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Eva Vila",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Laura Mañá",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Carmen Machi",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Maria Molins",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Àgata Roca",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Clara Segura",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Margarethe von Trotta",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "2014",
+    "titular": "Jutjat un professor d'arts marcials per abusar sexualment d'un alumne de 3 anys al Bruc",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [
+        "la mare del nen"
+      ],
+      "hombres_mencionados": [
+        "un professor d'arts marcials",
+        "el nen de 3 anys",
+        "el pare"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "la mare del nen",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1399",
+    "titular": "Qui mana a TV3 i Catalunya Ràdio?",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [
+        "Cristina Puig",
+        "Sílvia Cóppulo",
+        "Núria Llorach",
+        "Agnès Marquès"
+      ],
+      "hombres_mencionados": [
+        "Brauli Duart",
+        "Albert Om",
+        "Saül Gordillo",
+        "Xavi Freixes"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Cristina Puig",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Sílvia Cóppulo",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Núria Llorach",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Agnès Marquès",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "2271",
+    "titular": "El Consell de l'Estudiantat reclama un \"compromís ferm\" del Govern perquè el preu dels màsters s'equipari al dels graus",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Lluís Forcadell"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "828",
+    "titular": "El dia D de Valtònyc: la justícia de Bèlgica, a punt de decidir",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Josep Miquel Arenas"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1348",
+    "titular": "La patronal Cecot reclama més IVA i menys IRPF",
+    "prediccion": {
+      "total_personas_mencionadas": 2,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Antoni Duran-Sindreu",
+        "Antoni Abad"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "572",
+    "titular": "L’ajuntament planteja una zona dotacional al costat de l’IES Miquel Peris i deixa a la ciutadania la definició del seu ús concret",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [
+        "Consuelo Leal"
+      ],
+      "hombres_mencionados": [
+        "Rafa Simó",
+        "Fernando Calduch"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Consuelo Leal",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "90",
+    "titular": "Per què la independència no es proclamarà dilluns vinent?",
+    "prediccion": {
+      "total_personas_mencionadas": 2,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Carles Puigdemont"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2076",
+    "titular": "Alcover intensifica les mesures de control per evitar aglomeracions a la vall del riu Glorieta",
+    "prediccion": {
+      "total_personas_mencionadas": 5,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Robert Figueras",
+        "Francesc Xavier Pagès Alonso",
+        "Salvador Salvadó"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1796",
+    "titular": "Pedro Sánchez i Patxi López donen per perduda la batalla pels avals",
+    "prediccion": {
+      "total_personas_mencionadas": 18,
+      "mujeres_mencionadas": [
+        "Susana Díaz",
+        "Núria Parlon",
+        "Carme Chacón",
+        "María Teresa Fernández de la Vega"
+      ],
+      "hombres_mencionados": [
+        "Pedro Sánchez",
+        "Patxi López",
+        "Ximo Puig",
+        "Javier Fernández",
+        "Guillermo Fernández Vara",
+        "Javier Lambán",
+        "Emiliano García-Page",
+        "José Luis Ábalos",
+        "Carlos Ruiz",
+        "Jordi Hereu",
+        "Xavier Sardà",
+        "David Trueba",
+        "Xavier Arbós",
+        "Rafael Mateu",
+        "José Luis Rodríguez Zapatero"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Susana Díaz",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Núria Parlon",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Carme Chacón",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "María Teresa Fernández de la Vega",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "985",
+    "titular": "La URV investeix la mestra i investigadora Pilar Benejam com a Doctora Honoris Causa",
+    "prediccion": {
+      "total_personas_mencionadas": 5,
+      "mujeres_mencionadas": [
+        "Pilar Benejam",
+        "María José Figueras"
+      ],
+      "hombres_mencionados": [
+        "Antoni Gavaldà",
+        "Enric Lluch"
+      ],
+      "mujer_en_titular_o_apertura": true,
+      "roles_mujeres": [
+        {
+          "nombre": "Pilar Benejam",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "María José Figueras",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "1234",
+    "titular": "Malabarismes que eduquen",
+    "prediccion": {
+      "total_personas_mencionadas": 2,
+      "mujeres_mencionadas": [
+        "Marina Bou"
+      ],
+      "hombres_mencionados": [
+        "Antonio Alcántara"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Marina Bou",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "331",
+    "titular": "Les colles geganteres alerten de les dificultats per finançar-se per les restriccions sanitàries",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [
+        "Mercè Montserrat"
+      ],
+      "hombres_mencionados": [
+        "Roger Pi"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Mercè Montserrat",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2782",
+    "titular": "Baiget es reunirà amb Millo per exigir més punts d'inspecció fronterera a Catalunya per ser més competitius",
+    "prediccion": {
+      "total_personas_mencionadas": 2,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Jordi Baiget",
+        "Enric Millo"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "79",
+    "titular": "Darrer debat electoral: Amèrica s’ha equivocat de candidats",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [
+        "Hillary Clinton"
+      ],
+      "hombres_mencionados": [
+        "Donald Trump",
+        "Putin"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Hillary Clinton",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "473",
+    "titular": "Milions d’usuaris abandonen WhatsApp per les noves condicions de privadesa",
+    "prediccion": {
+      "total_personas_mencionadas": 2,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Mark Zuckerberg",
+        "Elon Musk"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2653",
+    "titular": "Compte enrere pel nou reglament de protecció de dades: més responsabilitat empresarial i més seguretat per als ciutadans",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [
+        "Maria Àngels Barbarà"
+      ],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Maria Àngels Barbarà",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2568",
+    "titular": "Ara Malikian, Paquito D'Rivera i Naturally 7, caps de cartell de l'edició de plata de la Mostra de Jazz de Tortosa",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Ara Malikian",
+        "Paquito D'Rivera",
+        "Pepe Rivera",
+        "Michael Bublé",
+        "Phil Collins",
+        "Xavi Bertomeu",
+        "Michel Camilo",
+        "Bill Evans",
+        "Randy Brecker",
+        "Pedro Iturralde",
+        "Arturo Sandoval",
+        "Tete Montoliu",
+        "Chucho Valdés",
+        "Vicente Amigo",
+        "Chick Corea"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "865",
+    "titular": "La Fita Alta Madness passa amb bona nota el canvi d’ubicació",
+    "prediccion": {
+      "total_personas_mencionadas": 11,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Jordi Balagué",
+        "Jordi Torrelles",
+        "Dani Bellart",
+        "Marc Larrey",
+        "Xavi Gomà",
+        "Àlex",
+        "Lluc"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1976",
+    "titular": "Felip VI i la Moncloa fan del sopar del Mobile un homenatge a la «plena democràcia» espanyola",
+    "prediccion": {
+      "total_personas_mencionadas": 7,
+      "mujeres_mencionadas": [
+        "Nadia Calviño",
+        "Ada Colau"
+      ],
+      "hombres_mencionados": [
+        "Felip VI",
+        "Quim Torra",
+        "John Hoffman"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Nadia Calviño",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Ada Colau",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "2111",
+    "titular": "Condemnen a 6 anys i 9 mesos de presó Francisco Correa per les adjudicacions d'Aena a empreses de la Gürtel",
+    "prediccion": {
+      "total_personas_mencionadas": 5,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Francisco Correa",
+        "José Luis Izquierdo",
+        "Ángel López de la Mota",
+        "José María Gavari",
+        "PP"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2693",
+    "titular": "El president d'Infraestructures.cat assegura que ha millorat la transparència i el control intern arran del 'cas Petrum'",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Joan Jaume Oms",
+        "Josep Antoni Rosell",
+        "Daniel Massagué",
+        "Jordi Sumarroca",
+        "Carles Sumarroca",
+        "Andreu Viloca",
+        "Daniel Osàcar"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1554",
+    "titular": "El Sónar canvia el CCCB per la Fira de Montjuïc",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Ricard Robles",
+        "Jaume Badia",
+        "Enric Palau",
+        "Pet Shop Boys",
+        "Kraftwerk",
+        "Justice",
+        "Jamie Lidell",
+        "Laurent Garnier",
+        "Soulwax",
+        "Seth Troxler",
+        "Diplo",
+        "Major Lazer",
+        "Skrillex",
+        "TNGHT",
+        "Liars",
+        "Francesco Tristano",
+        "Two Door Cinema Club",
+        "Hot Natured"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1300",
+    "titular": "Rull desautoritza De Gispert",
+    "prediccion": {
+      "total_personas_mencionadas": 6,
+      "mujeres_mencionadas": [
+        "Marta Pascal",
+        "Núria de Gispert"
+      ],
+      "hombres_mencionados": [
+        "Josep Rull",
+        "Duran"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Marta Pascal",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Núria de Gispert",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1806",
+    "titular": "CiU i PSC esclaten per la sobirania",
+    "prediccion": {
+      "total_personas_mencionadas": 15,
+      "mujeres_mencionadas": [
+        "Rocío Martínez Sampere",
+        "Marina Geli",
+        "Núria Ventura",
+        "Marta Llorens",
+        "Carme Cachón"
+      ],
+      "hombres_mencionados": [
+        "Joan Ignasi Elena",
+        "Àngel Ros",
+        "Xavier Sabaté",
+        "Juli Fernández",
+        "Oriol Pujol",
+        "Josep Rull",
+        "Josep Antoni Duran i Lleida",
+        "Josep Maria Pelegrí",
+        "Ramon Tremosa"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Rocío Martínez Sampere",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Marina Geli",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Núria Ventura",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Marta Llorens",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Carme Cachón",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2840",
+    "titular": "Torra a Sánchez: \"No renunciarem mai al dret a l'autodeterminació i el defensarem tal com vam defensar l'1-O\"",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Quim Torra",
+        "Pedro Sánchez",
+        "Jordi Prenafeta"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1640",
+    "titular": "Neix Gastrotalkers.cat coincidint amb la diada de Sant Jordi",
+    "prediccion": {
+      "total_personas_mencionadas": 2,
+      "mujeres_mencionadas": [
+        "Núria Escalona"
+      ],
+      "hombres_mencionados": [
+        "Carlo Petrini"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Núria Escalona",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1840",
+    "titular": "El sobiranisme rebutja les acusacions de violència: «Mai s'ha trencat un vidre»",
+    "prediccion": {
+      "total_personas_mencionadas": 13,
+      "mujeres_mencionadas": [
+        "Ada Colau",
+        "Carme Forcadell",
+        "Marta Pascal"
+      ],
+      "hombres_mencionados": [
+        "Rafael Casanovas",
+        "Jordi Turull",
+        "Cuixart",
+        "Artur Mas",
+        "Xavier Domènech",
+        "Fachin",
+        "Iceta",
+        "Camil Ros",
+        "Miquel Buch"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Ada Colau",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Carme Forcadell",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Marta Pascal",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2627",
+    "titular": "Salut comença els cribratges massius als dos barris gironins que acumulen gairebé la meitat dels casos de tota la ciutat",
+    "prediccion": {
+      "total_personas_mencionadas": 2,
+      "mujeres_mencionadas": [
+        "Marta Madrenas"
+      ],
+      "hombres_mencionados": [
+        "Salvador Campasol"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Marta Madrenas",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "1611",
+    "titular": "Torra deixarà en mans dels partits independentistes l'inici de la mesa de diàleg amb l'Estat",
+    "prediccion": {
+      "total_personas_mencionadas": 8,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Quim Torra",
+        "Pedro Sánchez",
+        "Roger Torrent",
+        "Carles Puigdemont"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2168",
+    "titular": "Mor l'escriptora Isabel-Clara Simó als 76 anys",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [
+        "Isabel-Clara Simó",
+        "Judith Colell",
+        "Montserrat Roig",
+        "Patricia Gabancho"
+      ],
+      "hombres_mencionados": [
+        "Xavier Dalfó"
+      ],
+      "mujer_en_titular_o_apertura": true,
+      "roles_mujeres": [
+        {
+          "nombre": "Isabel-Clara Simó",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Judith Colell",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Montserrat Roig",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Patricia Gabancho",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1453",
+    "titular": "Ensenyament ampliarà la plantilla d'intèrprets per fer front a les queixes dels alumnes sords",
+    "prediccion": {
+      "total_personas_mencionadas": 0,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "1077",
+    "titular": "PP i PSC volen activar els terminis de la investidura en el ple del desbloqueig",
+    "prediccion": {
+      "total_personas_mencionadas": 7,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Santi Rodríguez",
+        "Ferran Pedret",
+        "Fernando de Páramo",
+        "Roger Torrent",
+        "Carles Puigdemont",
+        "Inés Arrimadas"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "268",
+    "titular": "Comença el judici contra dos policies per la pèrdua d’un ull d’Ester Quintana",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [
+        "Ester Quintana"
+      ],
+      "hombres_mencionados": [
+        "Manel Prat",
+        "el sots-inspector",
+        "l’escopeter"
+      ],
+      "mujer_en_titular_o_apertura": true,
+      "roles_mujeres": [
+        {
+          "nombre": "Ester Quintana",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1580",
+    "titular": "​Sabadell pagarà la construcció de la residència del sud i la Generalitat aportarà 2,2 milions anuals",
+    "prediccion": {
+      "total_personas_mencionadas": 8,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Chakir El Homrani",
+        "Maties Serracant",
+        "Juli Fernàndez",
+        "Gabriel Fernàndez",
+        "Miquel Soler",
+        "Joan Berlanga"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2856",
+    "titular": "El Govern activa un pla per minimitzar els efectes del Brexit a les empreses catalanes",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [
+        "Àngels Chacón"
+      ],
+      "hombres_mencionados": [
+        "Alfred Bosch",
+        "Pere Aragonès"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Àngels Chacón",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "477",
+    "titular": "El periple per a obtenir la “mare de Satanàs” i la responsabilitat de l’estat espanyol",
+    "prediccion": {
+      "total_personas_mencionadas": 7,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Abdelbaki Es-Satti",
+        "Mohamed Houli",
+        "Saïd Ben Iazza",
+        "José Antonio Nieto",
+        "Jaume Alonso-Cuevillas",
+        "Agustí Carles",
+        "Alfonso Guevara"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "2516",
+    "titular": "Neix 'Art Pertot', un projecte transfronterer per difondre les creacions d'artistes joves a l'espai públic",
+    "prediccion": {
+      "total_personas_mencionadas": 7,
+      "mujeres_mencionadas": [
+        "Alona Vinç",
+        "Marta Vilalta",
+        "Raquel Moron"
+      ],
+      "hombres_mencionados": [
+        "Dorotheu Claus",
+        "Joan Ferrà",
+        "Georges Cazenove"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Alona Vinç",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Marta Vilalta",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Raquel Moron",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "1695",
+    "titular": "Carta sense pòsit",
+    "prediccion": {
+      "total_personas_mencionadas": 14,
+      "mujeres_mencionadas": [
+        "Ada Colau",
+        "Susana Díaz"
+      ],
+      "hombres_mencionados": [
+        "Luis de Guindos",
+        "Carles Puigdemont",
+        "Oriol March",
+        "Oriol Junqueras",
+        "Cristiano Ronaldo",
+        "Lionel Messi",
+        "Manel Pérez",
+        "Jordi Bes",
+        "Pedro Sánchez",
+        "Iñaki Gabilondo",
+        "Sandro Rosell",
+        "Josep Maria Bartomeu",
+        "Joan Laporta",
+        "Luis Enrique",
+        "Esteve Plantada",
+        "Joan Serra i Carné"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Ada Colau",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Susana Díaz",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1094",
+    "titular": "«Ens aturem per canviar-ho tot»: així serà la vaga feminista del 8-M",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [
+        "Dolo Pulido",
+        "Desirée Bela-Lobedde",
+        "Sara Cuentas"
+      ],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Dolo Pulido",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Desirée Bela-Lobedde",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Sara Cuentas",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "2818",
+    "titular": "RETAILcat reclama que la nova Llei de Comerç inclogui més regulació sobre la venda on-line i l'economia col·laborativa",
+    "prediccion": {
+      "total_personas_mencionadas": 1,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Joan Carles Calbet"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": 624,
+    "titular": "Barons del PSOE i diverses comunitats critiquen el pla de desconfinament del govern espanyol",
+    "prediccion": {
+      "total_personas_mencionadas": 18,
+      "mujeres_mencionadas": [
+        "Carolina Darias",
+        "Ana Barceló",
+        "Isabel Díaz Ayuso"
+      ],
+      "hombres_mencionados": [
+        "Pedro Sánchez",
+        "Javier Lambán",
+        "Guillermo Fernández Vara",
+        "Fernando López Miras",
+        "Alfonso Fernández Mañueco",
+        "Alfonso Rueda",
+        "Jesús Aguirre",
+        "Miguel Ángel Revilla",
+        "Josu Iñaki Erkoreka"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Carolina Darias",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Ana Barceló",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Isabel Díaz Ayuso",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "1748",
+    "titular": "«Mamarrachisme» il·lustrat o com Youtube ha democratitzat l’entreteniment",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [
+        "Yellow Mellow",
+        "Andrea Compton",
+        "Percebes y Grelos",
+        "Herrejón",
+        "Ter",
+        "Maria Rovira",
+        "Ariel F. Verba",
+        "Beatriz Serrano"
+      ],
+      "hombres_mencionados": [
+        "Roger de Gràcia",
+        "Bernat Surroca"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Yellow Mellow",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Andrea Compton",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Percebes y Grelos",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Herrejón",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Ter",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Maria Rovira",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Ariel F. Verba",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Beatriz Serrano",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "468",
+    "titular": "Juan Carlos I reconeix que va fugir perquè l’investigaven i anuncia que tornarà ocasionalment a Espanya",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Juan Carlos I",
+        "Felipe VI"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "905",
+    "titular": "‘L’hort del segon origen’: del film al manual d’agricultura ecològica en llibre",
+    "prediccion": {
+      "total_personas_mencionadas": 8,
+      "mujeres_mencionadas": [
+        "Alba"
+      ],
+      "hombres_mencionados": [
+        "Manuel de Pedrolo",
+        "Bigas Luna",
+        "Carles Porta",
+        "Dídac",
+        "Dara",
+        "Jordi Puig i Roca"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Alba",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1915",
+    "titular": "Per què Vox s'ha convertit en el primer partit de la dreta espanyola a Catalunya?",
+    "prediccion": {
+      "total_personas_mencionadas": 8,
+      "mujeres_mencionadas": [
+        "Mónica Lara"
+      ],
+      "hombres_mencionados": [
+        "Santiago Abascal",
+        "Ignacio Garriga",
+        "Antonio Gallego",
+        "Juan Garriga"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Mónica Lara",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "2817",
+    "titular": "Sant Jaume d'Enveja tindrà llest al novembre el port fluvial, actiu clau per als seus plans de dinamització turística",
+    "prediccion": {
+      "total_personas_mencionadas": 2,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Joan Castor Gonell",
+        "Joan Pere Gómez"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "483",
+    "titular": "El PP obre el seu congrés sense lluites pel lideratge i contraposarà la seva pau interna a les pugnes de Podem i PSOE",
+    "prediccion": {
+      "total_personas_mencionadas": 15,
+      "mujeres_mencionadas": [
+        "María Dolores de Cospedal",
+        "Luisa Fernanda Rudi",
+        "Cristina Cifuentes",
+        "Andrea Levy"
+      ],
+      "hombres_mencionados": [
+        "Mariano Rajoy",
+        "Fernando Martínez-Maíllo",
+        "Acebes",
+        "Javier Arenas",
+        "Javier Maroto",
+        "Pablo Casado",
+        "José María Aznar",
+        "Pablo Iglesias",
+        "Íñigo Errejón"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "María Dolores de Cospedal",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Luisa Fernanda Rudi",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Cristina Cifuentes",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Andrea Levy",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "2458",
+    "titular": "Fernández Díaz assegura que ell i el director de l'OAC són \"víctimes\" davant l'acusació de conspirar",
+    "prediccion": {
+      "total_personas_mencionadas": 7,
+      "mujeres_mencionadas": [
+        "Carme Forcadell"
+      ],
+      "hombres_mencionados": [
+        "Jorge Fernández Díaz",
+        "Daniel de Alfonso",
+        "Carles Puigdemont",
+        "Mariano Rajoy",
+        "el director de l'OAC"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Carme Forcadell",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "623",
+    "titular": "Neix Fibracat TV, una nova televisió en català, que es defineix com a ‘igualitària i tecnològica’",
+    "prediccion": {
+      "total_personas_mencionadas": 3,
+      "mujeres_mencionadas": [
+        "Meritxell Bautista",
+        "Mireia del Pozo"
+      ],
+      "hombres_mencionados": [],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Meritxell Bautista",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Mireia del Pozo",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1355",
+    "titular": "La justícia considera provat el finançament irregular de CDC i condemna Osàcar",
+    "prediccion": {
+      "total_personas_mencionadas": 11,
+      "mujeres_mencionadas": [
+        "Montserrat Comas",
+        "Gemma Montull"
+      ],
+      "hombres_mencionados": [
+        "Daniel Osàcar",
+        "Francesc Sànchez",
+        "Fèlix Millet",
+        "Jordi Montull",
+        "Carles Torrent",
+        "Xavier Melero"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Montserrat Comas",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Gemma Montull",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "2044",
+    "titular": "PP i Cs retreuen a Sanchis que el documental 'Llenguaferits' entrés a analitzar l'ús de la llengua a l'hora del pati",
+    "prediccion": {
+      "total_personas_mencionadas": 7,
+      "mujeres_mencionadas": [
+        "Sonia Sierra",
+        "Marta Ribas"
+      ],
+      "hombres_mencionados": [
+        "Vicent Sanchis",
+        "Nacho Martín Blanco",
+        "Daniel Serrano"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Sonia Sierra",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        },
+        {
+          "nombre": "Marta Ribas",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "1365",
+    "titular": "L'ANC d'Andorra creu que són minoria els que temen «l'imperialisme català»",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [
+        "Rosa Ferrer"
+      ],
+      "hombres_mencionados": [
+        "Manel Urindar",
+        "Joan Antoni Guerrero"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Rosa Ferrer",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "1525",
+    "titular": "L'emotiva carta dels familiars dels professors investigats de Sant Andreu de la Barca",
+    "prediccion": {
+      "total_personas_mencionadas": 7,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Josep Lluís del Alcázar",
+        "Enric Llorca",
+        "Íñigo Méndez de Vigo",
+        "el professor dassegura"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "791",
+    "titular": "Mulet: “Costa torna a apuntar a Bonig quan reconeix pagaments en B de Secopsa al PP”",
+    "prediccion": {
+      "total_personas_mencionadas": 11,
+      "mujeres_mencionadas": [
+        "Isabel Bonig",
+        "Silvia Prieto",
+        "Rita Barberá"
+      ],
+      "hombres_mencionados": [
+        "Vicente Aparici",
+        "Carlos Fabra",
+        "Jesús Marí",
+        "Bruno Broseta",
+        "Alejandro Font de Mora",
+        "José Ciscar",
+        "Oscar Clavell"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Isabel Bonig",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Silvia Prieto",
+          "tipo_rol": "acompanante_o_victima",
+          "tiene_cita_directa": false
+        },
+        {
+          "nombre": "Rita Barberá",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "2690",
+    "titular": "Ustec considera \"decebedor\" el pla d'Educació i alerta que és \"agosarat\" pensar que els nens \"no contagien\"",
+    "prediccion": {
+      "total_personas_mencionadas": 5,
+      "mujeres_mencionadas": [
+        "Alba Vergés"
+      ],
+      "hombres_mencionados": [
+        "Ramon Font",
+        "Pere Aragonès",
+        "Josep Bargalló"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Alba Vergés",
+          "tipo_rol": "secundario",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  },
+  {
+    "id": "211",
+    "titular": "‘Si plou, ho farem al pavelló’, nou disc de Quimi Portet",
+    "prediccion": {
+      "total_personas_mencionadas": 4,
+      "mujeres_mencionadas": [],
+      "hombres_mencionados": [
+        "Quimi Portet",
+        "Jordi Busquets",
+        "Ángel Celada"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": []
+    }
+  },
+  {
+    "id": "459",
+    "titular": "Resistència Gallega, la insòlita organització armada que no reivindica ningú",
+    "prediccion": {
+      "total_personas_mencionadas": 10,
+      "mujeres_mencionadas": [
+        "Asunción Losada"
+      ],
+      "hombres_mencionados": [
+        "Antón García Matos",
+        "Ramón Sáez Valcárcel",
+        "Benet Salellas",
+        "Carlos Taibo",
+        "Santiago Alba Rico",
+        "Eloy Velasco"
+      ],
+      "mujer_en_titular_o_apertura": false,
+      "roles_mujeres": [
+        {
+          "nombre": "Asunción Losada",
+          "tipo_rol": "lider_o_experta",
+          "tiene_cita_directa": false
+        }
+      ]
+    }
+  }
+]

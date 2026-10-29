@@ -119,7 +119,7 @@
     "id": 2905,
     "titular": "El Parlament Europeu ratifica el Tractat de París contra el canvi climàtic",
     "prediccion": {
-      "total_personas_mencionadas": 6,
+      "total_personas_mencionadas": 7,
       "mujeres_mencionadas": [
         "Ségolène Royal"
       ],
@@ -176,6 +176,7 @@
         "Jordi Cuixart",
         "Gonzalo Boye",
         "Pablo Llarena",
+        "Lluís Puig",
         "Josep Costa",
         "Jordi Turull"
       ],
@@ -281,7 +282,7 @@
     "id": 884,
     "titular": "El parlament reprova l’ex-president Pujol pels diners a Andorra",
     "prediccion": {
-      "total_personas_mencionadas": 9,
+      "total_personas_mencionadas": 10,
       "mujeres_mencionadas": [
         "Alícia Sánchez-Camacho"
       ],
@@ -338,15 +339,14 @@
     "id": 2993,
     "titular": "La fiscalia carrega contra les defenses per presentar els acusats com a \"víctimes de persecució política\"",
     "prediccion": {
-      "total_personas_mencionadas": 5,
+      "total_personas_mencionadas": 6,
       "mujeres_mencionadas": [
         "Ana Pastor"
       ],
       "hombres_mencionados": [
         "Javier Zaragoza",
-        "Puigdemont",
-        "Cuixart",
-        "el rey"
+        "Carles Puigdemont",
+        "Jordi Cuixart"
       ],
       "mujer_en_titular_o_apertura": false,
       "roles_mujeres": [
