@@ -235,9 +235,9 @@ La gráfica compara los cinco modelos frente al golden standard anotado manualme
 - [x] Comparación de 5 modelos abiertos frente al golden standard.
 
 **Fase 2: Análisis a escala (en curso)**
-- [ ] Seleccionar el mejor modelo según el benchmark.
-- [ ] Procesar los 250 artículos con el modelo seleccionado.
-- [ ] Obtener los indicadores globales de presencia y protagonismo femenino.
+- [x] Seleccionar el mejor modelo según el benchmark.
+- [x] Procesar los 250 artículos con el modelo seleccionado.
+- [x] Obtener los indicadores globales de presencia y protagonismo femenino.
 
 **Fase 3: Mejoras futuras**
 - [ ] **Análisis por categoría:** cruzar los resultados con la categoría de cada artículo (política, economía, cultura, sociedad…) para ver en qué ámbitos tienen más o menos presencia las mujeres. Requiere unificar las categorías de caBreu, ya que algunos artículos no tienen y el formato varía.
